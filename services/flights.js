@@ -19,17 +19,17 @@ async function getAllAirports() {
 
 async function getAllCountries(reqBody) {
   const departureEntityID = reqBody.fromEntityId; //Airport ID can be used here
-  const year = reqBody.year;
-  const month = reqBody.month;
+  const dateDepart = reqBody.departDate;
+  const dateReturn = reqBody.returnDate;
   const currency = reqBody.currency;
 
   const options = {
     method: "GET",
-    url: "https://sky-scanner3.p.rapidapi.com/flights/search-everywhere",
+    url: "https://sky-scanner3.p.rapidapi.com/flights/search-roundtrip",
     params: {
       fromEntityId: departureEntityID,
-      year: year,
-      month: month,
+      departDate: dateDepart,
+      returnDate: dateReturn,
       currency: currency,
     },
     headers: defaultHeaders,
@@ -45,19 +45,19 @@ async function getAllCountries(reqBody) {
 
 async function getAllCities(reqBody) {
   const departureEntityID = reqBody.fromEntityId;
-  const destinationEntityID = reqBody.toEntityId;
-  const year = reqBody.year;
-  const month = reqBody.month;
+  const destinationEntityID = reqBody.skyId;
+  const dateDepart = reqBody.departDate;
+  const dateReturn = reqBody.returnDate;
   const currency = reqBody.currency;
 
   const options = {
     method: "GET",
-    url: "https://sky-scanner3.p.rapidapi.com/flights/search-everywhere",
+    url: "https://sky-scanner3.p.rapidapi.com/flights/search-roundtrip",
     params: {
       fromEntityId: departureEntityID,
       toEntityId: destinationEntityID,
-      year: year,
-      month: month,
+      departDate: dateDepart,
+      returnDate: dateReturn,
       currency: currency,
     },
     headers: defaultHeaders,
@@ -74,18 +74,62 @@ async function getAllCities(reqBody) {
 async function getAllFlights(reqBody) {
   const departureEntityID = reqBody.fromEntityId;
   const destinationEntityID = reqBody.toEntityId;
-  const year = reqBody.year;
-  const month = reqBody.month;
+  const dateDepart = reqBody.departDate;
+  const dateReturn = reqBody.returnDate;
   const currency = reqBody.currency;
 
   const options = {
     method: "GET",
-    url: "https://sky-scanner3.p.rapidapi.com/flights/search-everywhere",
+    url: "https://sky-scanner3.p.rapidapi.com/flights/search-roundtrip",
     params: {
       fromEntityId: departureEntityID,
       toEntityId: destinationEntityID,
-      year: year,
-      month: month,
+      departDate: dateDepart,
+      returnDate: dateReturn,
+      currency: currency,
+    },
+    headers: defaultHeaders,
+  };
+
+  try {
+    const response = await axios.request(options);
+    return response.data;
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+async function getAllFlightsComplete(reqBody) {
+  const idSession = reqBody.sessionId;
+
+  const options = {
+    method: "GET",
+    url: "https://sky-scanner3.p.rapidapi.com/flights/search-incomplete",
+    params: {
+      sessionId: idSession,
+    },
+    headers: defaultHeaders,
+  };
+
+  try {
+    const response = await axios.request(options);
+    return response.data;
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+async function getFlightDetails(reqBody) {
+  const token = reqBody.token;
+  const itineraryId = reqBody.itineraryId;
+  const currency = reqBody.currency;
+
+  const options = {
+    method: "GET",
+    url: "https://sky-scanner3.p.rapidapi.com/flights/detail",
+    params: {
+      token: token,
+      itineraryId: itineraryId,
       currency: currency,
     },
     headers: defaultHeaders,
@@ -104,4 +148,6 @@ module.exports = {
   getAllCities,
   getAllAirports,
   getAllFlights,
+  getFlightDetails,
+  getAllFlightsComplete,
 };
