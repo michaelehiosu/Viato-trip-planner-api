@@ -1,5 +1,6 @@
 require('dotenv').config();
 const axios = require("axios");
+const data = require("../data/hotels.json");
 
 const apiKey = process.env.API_KEY;
 const apiHost = process.env.API_HOST;
@@ -7,6 +8,10 @@ const apiHost = process.env.API_HOST;
 
 // STAYS FUNCTIONS
 async function getCity(reqBody) {
+  if (reqBody.dummy != undefined && reqBody.dummy == true) {
+    return hotels.frankfurt;
+  }
+
   const city = reqBody.city;
 
   const options = {
@@ -30,6 +35,10 @@ async function getCity(reqBody) {
 }
 
 async function getHotels(reqBody) {
+  if (reqBody.dummy != undefined && reqBody.dummy == true) {
+    return hotels.frankfurt_hotels;
+  }
+
   const entityId = reqBody.entityId;
   const checkin = reqBody.checkin;
   const checkout = reqBody.checkout;
@@ -61,6 +70,10 @@ async function getHotels(reqBody) {
 }
 
 async function getHotelPrices(reqBody) {
+  if (reqBody.dummy != undefined && reqBody.dummy == true) {
+    return hotels.cheapest_hotel;
+  }
+
   const hotelId = reqBody.hotelId;
   const checkin = reqBody.checkin;
   const checkout = reqBody.checkout;
@@ -69,7 +82,7 @@ async function getHotelPrices(reqBody) {
     method: "GET",
     url: "https://sky-scanner3.p.rapidapi.com/hotels/search",
     params: {
-      entityId: entityId,
+      hotelId: hotelId,
       checkin: checkin,
       checkout: checkout,
     },
@@ -86,3 +99,9 @@ async function getHotelPrices(reqBody) {
     console.log(error)
   }
 }
+
+module.exports = {
+  getCity,
+  getHotels,
+  getHotelPrices,
+};

@@ -133,7 +133,7 @@
     "status": true,
     "message": "Successful"
   },
-  "frankfurt-hotels": {
+  "frankfurt_hotels": {
     "data": {
       "results": {
         "priceType": "PRICE_PER_NIGHT",
@@ -3435,7 +3435,7 @@
     "status": true,
     "message": "Successful"
   },
-  "cheapest-hotel": {
+  "cheapest_hotel": {
     "data": {
       "metaInfo": {
         "ratesCta": "Go to site",
