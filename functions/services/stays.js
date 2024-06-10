@@ -1,9 +1,9 @@
 require('dotenv').config();
 const axios = require("axios");
-const data = require("../data/hotels.json");
+const hotels = require("../data/hotels.json");
 
-const apiKey = process.env.API_KEY;
-const apiHost = process.env.API_HOST;
+const apiKey = "ab0f073d9dmsh0fe6fdb31e006a1p15547djsn0d14fc2401c8";
+const apiHost = "sky-scanner3.p.rapidapi.com ";
 
 
 // STAYS FUNCTIONS
