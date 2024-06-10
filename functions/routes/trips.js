@@ -99,7 +99,7 @@ router.post("/stays/hotels", async (req, res) => {
 
 router.post("/stays/hotels/prices", async (req, res) => {
   try {
-    const hotelData = await staysService.getHotels(
+    const hotelData = await staysService.getHotelPrices(
       req.body,
       req.params
     );

@@ -71,7 +71,7 @@ async function getHotelPrices(reqBody) {
 
   const options = {
     method: "GET",
-    url: "https://sky-scanner3.p.rapidapi.com/hotels/search",
+    url: "https://sky-scanner3.p.rapidapi.com/hotels/prices",
     params: {
       hotelId: hotelId,
       checkin: checkin,
