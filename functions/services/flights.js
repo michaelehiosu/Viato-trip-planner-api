@@ -1,22 +1,9 @@
 const { defaultHeaders } = require("../data/defaultParams");
 const axios = require("axios");
 const data = require("../data/data.json");
-
 // FLIGHT FUNCTIONS
 async function getAllAirports() {
     return data.airports;
-  // const options = {
-  //   method: "GET",
-  //   url: "https://sky-scanner3.p.rapidapi.com/flights/airports",
-  //   headers: headers,
-  // };
-
-  // try {
-  //   const response = await axios.request(options);
-  //   return response.data;
-  // } catch (error) {
-  //   console.error(error);
-  // }
 }
 
 async function getAllCountries(reqBody) {

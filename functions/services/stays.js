@@ -1,10 +1,7 @@
 require('dotenv').config();
 const axios = require("axios");
 const hotels = require("../data/hotels.json");
-
-const apiKey = "ab0f073d9dmsh0fe6fdb31e006a1p15547djsn0d14fc2401c8";
-const apiHost = "sky-scanner3.p.rapidapi.com ";
-
+const { defaultHeaders } = require('../data/defaultParams');
 
 // STAYS FUNCTIONS
 async function getCity(reqBody) {
@@ -20,10 +17,7 @@ async function getCity(reqBody) {
     params: {
       query: city
     },
-    headers: {
-      'X-RapidAPI-Key': apiKey,
-      'X-RapidAPI-Host': apiHost,
-    },
+    headers: defaultHeaders,
   }
 
   try {
@@ -55,10 +49,7 @@ async function getHotels(reqBody) {
       sorting: 'price',
       maxPrice: budget,
     },
-    headers: {
-      'X-RapidAPI-Key': apiKey,
-      'X-RapidAPI-Host': apiHost,
-    },
+    headers: defaultHeaders,
   }
 
   try {
@@ -86,10 +77,7 @@ async function getHotelPrices(reqBody) {
       checkin: checkin,
       checkout: checkout,
     },
-    headers: {
-      'X-RapidAPI-Key': apiKey,
-      'X-RapidAPI-Host': apiHost,
-    },
+    headers: defaultHeaders,
   }
 
   try {
