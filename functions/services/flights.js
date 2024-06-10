@@ -19,7 +19,7 @@ async function getAllCountries(reqBody) {
     method: "GET",
     url: "https://sky-scanner3.p.rapidapi.com/flights/search-roundtrip",
     params: {
-      fromEntityId: despartureEntityID,
+      fromEntityId: departureEntityID,
       departDate: dateDepart,
       returnDate: dateReturn,
       currency: currency,
