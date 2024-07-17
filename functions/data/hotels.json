@@ -1,0 +1,5080 @@
+{
+  "frankfurt": {
+    "data": [
+      {
+        "hierarchy": "Hesse|Germany",
+        "location": "50.11727157224563, 8.644396632755535",
+        "score": 0,
+        "entityName": "Frankfurt",
+        "entityId": "27541706",
+        "entityType": "city",
+        "highlight": {
+          "entityName": "<em>Frankfurt</em>",
+          "hierarchy": "Hesse|Germany"
+        },
+        "class": "City",
+        "pois": [
+          {
+            "entityName": "Frankfurt Messe",
+            "entityId": "206529713",
+            "class": "TouristAttraction"
+          },
+          {
+            "entityName": "Terminal 1 of Frankfurt Airport",
+            "entityId": "211028886",
+            "class": "TransitwayPlaza"
+          },
+          {
+            "entityName": "Frankfurt am Main Flughafen Fernbahnhof",
+            "entityId": "218450080",
+            "class": "TouristAttraction"
+          }
+        ]
+      },
+      {
+        "hierarchy": "Frankfurt|Hesse|Germany",
+        "location": "50.037905, 8.5621411",
+        "score": 0,
+        "entityName": "Frankfurt am Main (FRA)",
+        "entityId": "95673652",
+        "entityType": "airport",
+        "highlight": {
+          "entityName": "<em>Frankfurt</em> am Main (<em>FRA</em>)",
+          "hierarchy": "<em>Frankfurt</em>|Hesse|Germany"
+        },
+        "class": "Airport",
+        "pois": null
+      },
+      {
+        "hierarchy": "Frankfurt|Hesse|Germany",
+        "location": "50.05127, 8.571267",
+        "score": 0,
+        "entityName": "Frankfurt (Main) Flughafen Regionalbahnhof",
+        "entityId": "110609051",
+        "entityType": "Train Station",
+        "highlight": {
+          "entityName": "<em>Frankfurt</em> (Main) Flughafen Regionalbahnhof",
+          "hierarchy": "<em>Frankfurt</em>|Hesse|Germany"
+        },
+        "class": "TrainStation",
+        "pois": null
+      },
+      {
+        "hierarchy": "Frankfurt|Hesse|Germany",
+        "location": "50.051969, 8.572675",
+        "score": 0,
+        "entityName": "Sheraton Frankfurt Airport Hotel & Conference Center",
+        "entityId": "47031154",
+        "entityType": "hotel",
+        "highlight": {
+          "entityName": "Sheraton <em>Frankfurt</em> Airport Hotel & Conference Center",
+          "hierarchy": "<em>Frankfurt</em>|Hesse|Germany"
+        },
+        "class": "Hotel",
+        "pois": null
+      },
+      {
+        "hierarchy": "Frankfurt|Hesse|Germany",
+        "location": "50.1087981, 8.6625648",
+        "score": 0,
+        "entityName": "Manhattan Hotel",
+        "entityId": "46945004",
+        "entityType": "hotel",
+        "highlight": {
+          "entityName": "Manhattan Hotel",
+          "hierarchy": "<em>Frankfurt</em>|Hesse|Germany"
+        },
+        "class": "Hotel",
+        "pois": null
+      },
+      {
+        "hierarchy": "Frankfurt|Hesse|Germany",
+        "location": "50.10652899999999, 8.662161800000035",
+        "score": 0,
+        "entityName": "Frankfurt Central Station",
+        "entityId": "207974606",
+        "entityType": "Train Station",
+        "highlight": {
+          "entityName": "<em>Frankfurt</em> Central Station",
+          "hierarchy": "<em>Frankfurt</em>|Hesse|Germany"
+        },
+        "class": "TrainStation",
+        "pois": null
+      },
+      {
+        "hierarchy": "Frankfurt|Hesse|Germany",
+        "location": "50.044325633246494, 8.568270812145894",
+        "score": 0,
+        "entityName": "Flughafen",
+        "entityId": "213545077",
+        "entityType": "District",
+        "highlight": {
+          "entityName": "Flughafen",
+          "hierarchy": "<em>Frankfurt</em>|Hesse|Germany"
+        },
+        "class": "District",
+        "pois": null
+      },
+      {
+        "hierarchy": "Frankfurt|Hesse|Germany",
+        "location": "50.10464, 8.66183",
+        "score": 0,
+        "entityName": "Toyoko Inn Frankfurt am Main Hauptbahnhof",
+        "entityId": "154725839",
+        "entityType": "hotel",
+        "highlight": {
+          "entityName": "Toyoko Inn <em>Frankfurt</em> am Main Hauptbahnhof",
+          "hierarchy": "<em>Frankfurt</em>|Hesse|Germany"
+        },
+        "class": "Hotel",
+        "pois": null
+      }
+    ],
+    "status": true,
+    "message": "Successful"
+  },
+  "frankfurt_hotels": {
+    "data": {
+      "results": {
+        "priceType": "PRICE_PER_NIGHT",
+        "pricePolicy": "Taxes and fees not included",
+        "searchSummary": {
+          "total": 199,
+          "filteredTotal": 199,
+          "inboundTotal": 199,
+          "resultsSummary": "Taxes and fees not included | 199 results sorted by Best",
+          "sortBy": "-relevance",
+          "entity": {
+            "entityId": "27541706",
+            "entityType": "City",
+            "name": "Frankfurt",
+            "coordinates": {
+              "latitude": 50.110924,
+              "longitude": 8.682127
+            },
+            "levelOfEntityType": "PoliticalTypes"
+          },
+          "location": [
+            {
+              "entityId": "44293349",
+              "entityType": "FirstLevelNationAdministrativeDivision",
+              "name": "Hesse"
+            },
+            {
+              "entityId": "29475381",
+              "entityType": "Nation",
+              "name": "Germany"
+            }
+          ]
+        },
+        "mapBoundary": {
+          "north": 50.13122491,
+          "east": 8.7112332,
+          "south": 49.990430399,
+          "west": 8.5822758
+        },
+        "hotelsRegion": {
+          "latitude": 50.106355,
+          "longitude": 8.6526695,
+          "longitudeDelta": 0.044398999999999404,
+          "latitudeDelta": 0.01326999999999589
+        },
+        "hotelCards": [
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiI0NzA3NTYxNiJ9",
+            "name": "Five Elements Hostel Frankfurt",
+            "stars": "3",
+            "distance": "0.75 miles from downtown",
+            "relevantPoiDistance": "1.01 miles from Frankfurt Rhein-Main Afb",
+            "coordinates": {
+              "latitude": 50.10899,
+              "longitude": 8.66548
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1491565059/1491565059_WxH.jpg",
+              "https://content.skyscnr.com/available/1554939698/1554939698_WxH.jpg",
+              "https://content.skyscnr.com/available/1554939685/1554939685_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 4,
+              "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-64600-4.svg",
+              "scoreDesc": "Very Good",
+              "total": 634,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$28",
+              "rawPrice": 28,
+              "rawBasePrice": 384,
+              "rawTaxAndFees": 60.05,
+              "partnerId": "h_ad",
+              "partnerType": "OTA",
+              "partnerName": "Agoda",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ad.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "47075616"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiIyMDQ5Nzg4MzgifQ==",
+            "name": "Hotel Villa Oriental & Restaurant",
+            "stars": "4",
+            "distance": "0.92 miles from downtown",
+            "relevantPoiDistance": "0.91 miles from Frankfurt Rhein-Main Afb",
+            "coordinates": {
+              "latitude": 50.104476,
+              "longitude": 8.664078
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1491565093/1491565093_WxH.jpg",
+              "https://content.skyscnr.com/available/1491565374/1491565374_WxH.jpg",
+              "https://content.skyscnr.com/available/1491565400/1491565400_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 3.4,
+              "imageUrl": "",
+              "scoreDesc": "Satisfactory",
+              "total": 33,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$71",
+              "rawPrice": 71,
+              "rawBasePrice": 993,
+              "rawTaxAndFees": 99.4,
+              "partnerId": "h_ad",
+              "partnerType": "OTA",
+              "partnerName": "Agoda",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ad.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "204978838"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiI0Njk1MzkwOCJ9",
+            "name": "Centro Hotel National Frankfurt City",
+            "stars": "3",
+            "distance": "0.84 miles from downtown",
+            "relevantPoiDistance": "0.89 miles from Frankfurt Rhein-Main Afb",
+            "coordinates": {
+              "latitude": 50.10542,
+              "longitude": 8.665224
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1484258543/1484258543_WxH.jpg",
+              "https://content.skyscnr.com/available/1134837453/1134837453_WxH.jpg",
+              "https://content.skyscnr.com/available/1569213069/1569213069_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 3.5,
+              "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-64600-4.svg",
+              "scoreDesc": "Good",
+              "total": 426,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$71",
+              "rawPrice": 71,
+              "rawBasePrice": 981,
+              "rawTaxAndFees": 68.69,
+              "partnerId": "h_tt",
+              "partnerType": "OTA",
+              "partnerName": "Algotels",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_tt.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "46953908"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiI0Njk0MzgyOSJ9",
+            "name": "Savoy Hotel",
+            "stars": "4",
+            "distance": "0.80 miles from downtown",
+            "relevantPoiDistance": "0.89 miles from Frankfurt Rhein-Main Afb",
+            "coordinates": {
+              "latitude": 50.106093,
+              "longitude": 8.665663
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1579629781/1579629781_WxH.jpg",
+              "https://content.skyscnr.com/available/1579629765/1579629765_WxH.jpg",
+              "https://content.skyscnr.com/available/1579629311/1579629311_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 3,
+              "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-64600-4.svg",
+              "scoreDesc": "Satisfactory",
+              "total": 974,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$94",
+              "rawPrice": 94,
+              "rawBasePrice": 1307,
+              "rawTaxAndFees": 150.01,
+              "partnerId": "h_pi",
+              "partnerType": "OTA",
+              "partnerName": "Prestigia",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_pi.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "46943829"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiI0NjkzOTYwMyJ9",
+            "name": "Bristol Hotel - Frankfurt City",
+            "stars": "4",
+            "distance": "1.06 miles from downtown",
+            "relevantPoiDistance": "1.21 miles from Frankfurt Rhein-Main Afb",
+            "coordinates": {
+              "latitude": 50.10767,
+              "longitude": 8.65877
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1364765302/1364765302_WxH.jpg",
+              "https://content.skyscnr.com/available/1542067339/1542067339_WxH.jpg",
+              "https://content.skyscnr.com/available/1364764910/1364764910_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 3.5,
+              "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-64600-4.svg",
+              "scoreDesc": "Good",
+              "total": 963,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$87",
+              "rawPrice": 87,
+              "rawBasePrice": 1218,
+              "rawTaxAndFees": 141.75,
+              "partnerId": "h_pi",
+              "partnerType": "OTA",
+              "partnerName": "Prestigia",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_pi.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "46939603"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiI0Njk1MjY4MiJ9",
+            "name": "IntercityHotel Frankfurt Airport",
+            "stars": "4",
+            "distance": "6.71 miles from downtown",
+            "relevantPoiDistance": "1.38 miles from Frankfurt am Main",
+            "coordinates": {
+              "latitude": 50.032752,
+              "longitude": 8.592201
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1324049818/1324049818_WxH.jpg",
+              "https://content.skyscnr.com/available/353092047/353092047_WxH.jpg",
+              "https://content.skyscnr.com/available/1542699343/1542699343_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 3.5,
+              "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-64600-4.svg",
+              "scoreDesc": "Good",
+              "total": 1374,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$89",
+              "rawPrice": 89,
+              "rawBasePrice": 1245,
+              "rawTaxAndFees": 117.08,
+              "partnerId": "h_zh",
+              "partnerType": "OTA",
+              "partnerName": "ZenHotels",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_zh.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "46952682"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiIyMTI3MDc4NDEifQ==",
+            "name": "Scandic Frankfurt Hafenpark",
+            "stars": "4",
+            "distance": "1.09 miles from downtown",
+            "relevantPoiDistance": "1.20 miles from Frankfurt Rhein-Main Afb",
+            "coordinates": {
+              "latitude": 50.108943,
+              "longitude": 8.706457
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1590373273/1590373273_WxH.jpg",
+              "https://content.skyscnr.com/available/1348069520/1348069520_WxH.jpg",
+              "https://content.skyscnr.com/available/1392741109/1392741109_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 4.8,
+              "imageUrl": "",
+              "scoreDesc": "Excellent",
+              "total": 58,
+              "mostPopularWith": "Great for business travelers"
+            },
+            "confidentMessages": [
+              {
+                "type": "location",
+                "score": 4.7,
+                "icon": "thumbs-up",
+                "message": "Hotel location is rated 4.7/5"
+              }
+            ],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$90",
+              "rawPrice": 90,
+              "rawBasePrice": 1247,
+              "rawTaxAndFees": 117.27,
+              "partnerId": "h_zh",
+              "partnerType": "OTA",
+              "partnerName": "ZenHotels",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_zh.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "212707841"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiI0NzE1ODI2MCJ9",
+            "name": "Hotel Franken an der Messe",
+            "stars": "3",
+            "distance": "2.17 miles from downtown",
+            "relevantPoiDistance": "1.24 miles from Frankfurt Central Station",
+            "coordinates": {
+              "latitude": 50.10372,
+              "longitude": 8.63447
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1462345381/1462345381_WxH.jpg",
+              "https://content.skyscnr.com/available/1462345399/1462345399_WxH.jpg",
+              "https://content.skyscnr.com/available/1462345501/1462345501_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 4.1,
+              "imageUrl": "",
+              "scoreDesc": "Very Good",
+              "total": 2,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$86",
+              "rawPrice": 86,
+              "rawBasePrice": 1197,
+              "rawTaxAndFees": 113.72,
+              "partnerId": "h_hc",
+              "partnerType": "OTA",
+              "partnerName": "Hotels.com",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_hc.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "47158260"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiIyMDM5MTQ2NjgifQ==",
+            "name": "The Atrium Hotel",
+            "stars": "4",
+            "distance": "0.59 miles from downtown",
+            "relevantPoiDistance": "0.85 miles from Frankfurt Rhein-Main Afb",
+            "coordinates": {
+              "latitude": 50.108515,
+              "longitude": 8.669401
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1365013430/1365013430_WxH.jpg",
+              "https://content.skyscnr.com/available/1553816707/1553816707_WxH.jpg",
+              "https://content.skyscnr.com/available/1365013477/1365013477_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 4.2,
+              "imageUrl": "",
+              "scoreDesc": "Very Good",
+              "total": 90,
+              "mostPopularWith": "Great for solo travelers"
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$100",
+              "rawPrice": 100,
+              "rawBasePrice": 1387,
+              "rawTaxAndFees": 126.97999999999999,
+              "partnerId": "h_ad",
+              "partnerType": "OTA",
+              "partnerName": "Agoda",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ad.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "203914668"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiIyMTM0Mzc1NzUifQ==",
+            "name": "THE Rooms - Hotel & House",
+            "stars": "4",
+            "distance": "2.63 miles from downtown",
+            "relevantPoiDistance": "1.25 miles from Frankfurt Messe",
+            "coordinates": {
+              "latitude": 50.119589,
+              "longitude": 8.624295
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1379602912/1379602912_WxH.jpg",
+              "https://content.skyscnr.com/available/1379602842/1379602842_WxH.jpg",
+              "https://content.skyscnr.com/available/1555012590/1555012590_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 3.7,
+              "imageUrl": "",
+              "scoreDesc": "Good",
+              "total": 3,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$77",
+              "rawPrice": 77,
+              "rawBasePrice": 1071,
+              "rawTaxAndFees": 74.9,
+              "partnerId": "h_ad",
+              "partnerType": "OTA",
+              "partnerName": "Agoda",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ad.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": {
+                "rawType": "general",
+                "type": "general",
+                "discountBadge": "14% off",
+                "label": null,
+                "originalPrice": "$90",
+                "discountPercentage": 14
+              },
+              "discount": null,
+              "amenities": [
+                {
+                  "key": "free_cancellation",
+                  "text": "Free cancellation"
+                }
+              ]
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "213437575"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiIxMTU4NjUwNTUifQ==",
+            "name": "Anor Hotel & Conference Center Frankfurt Airport",
+            "stars": "4",
+            "distance": "7.92 miles from downtown",
+            "relevantPoiDistance": null,
+            "coordinates": {
+              "latitude": 50.013808,
+              "longitude": 8.587052
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/757386128/757386128_WxH.jpg",
+              "https://content.skyscnr.com/available/1139081508/1139081508_WxH.jpg",
+              "https://content.skyscnr.com/available/1214291880/1214291880_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 3,
+              "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-64600-4.svg",
+              "scoreDesc": "Satisfactory",
+              "total": 40,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$78",
+              "rawPrice": 78,
+              "rawBasePrice": 1079,
+              "rawTaxAndFees": 75.5,
+              "partnerId": "h_zh",
+              "partnerType": "OTA",
+              "partnerName": "ZenHotels",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_zh.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "115865055"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiIxMTczMzc4OTkifQ==",
+            "name": "Memphis Hotel",
+            "stars": "4",
+            "distance": "0.54 miles from downtown",
+            "relevantPoiDistance": "0.78 miles from Frankfurt Rhein-Main Afb",
+            "coordinates": {
+              "latitude": 50.107983,
+              "longitude": 8.670869
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/758896194/758896194_WxH.jpg",
+              "https://content.skyscnr.com/available/1545068027/1545068027_WxH.jpg",
+              "https://content.skyscnr.com/available/1498089702/1498089702_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 3.5,
+              "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-64600-4.svg",
+              "scoreDesc": "Good",
+              "total": 283,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$91",
+              "rawPrice": 91,
+              "rawBasePrice": 1274,
+              "rawTaxAndFees": 119.19,
+              "partnerId": "h_hc",
+              "partnerType": "OTA",
+              "partnerName": "Hotels.com",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_hc.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": {
+                "rawType": "general",
+                "type": "general",
+                "discountBadge": "17% off",
+                "label": null,
+                "originalPrice": "$109",
+                "discountPercentage": 17
+              },
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "117337899"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiI3MTc4MjM5OCJ9",
+            "name": "Goethe Hotel Messe by Trip Inn",
+            "stars": "3",
+            "distance": "2.88 miles from downtown",
+            "relevantPoiDistance": "1.41 miles from Frankfurt Messe",
+            "coordinates": {
+              "latitude": 50.10431,
+              "longitude": 8.61787
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1445280649/1445280649_WxH.jpg",
+              "https://content.skyscnr.com/available/1547797110/1547797110_WxH.jpg",
+              "https://content.skyscnr.com/available/990220819/990220819_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 4.8,
+              "imageUrl": "",
+              "scoreDesc": "Excellent",
+              "total": 8,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$92",
+              "rawPrice": 92,
+              "rawBasePrice": 1279,
+              "rawTaxAndFees": 117.46,
+              "partnerId": "h_fb",
+              "partnerType": "CRS",
+              "partnerName": "Fastbooking",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_fb.png",
+              "isOfficial": true,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": [
+                {
+                  "key": "free_cancellation",
+                  "text": "Free cancellation"
+                }
+              ]
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "71782398"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiI4MTk5NDYxOCJ9",
+            "name": "City Centre Hotel Neue Kraeme Am Roemer",
+            "stars": "3",
+            "distance": "0.08 miles from downtown",
+            "relevantPoiDistance": "0.83 miles from Frankfurt Rhein-Main Afb",
+            "coordinates": {
+              "latitude": 50.111984,
+              "longitude": 8.681434
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1281180990/1281180990_WxH.jpg",
+              "https://content.skyscnr.com/available/1443010701/1443010701_WxH.jpg",
+              "https://content.skyscnr.com/available/1443010659/1443010659_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 4.3,
+              "imageUrl": "",
+              "scoreDesc": "Very Good",
+              "total": 1,
+              "mostPopularWith": null
+            },
+            "confidentMessages": [],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$88",
+              "rawPrice": 88,
+              "rawBasePrice": 1229,
+              "rawTaxAndFees": 116.06,
+              "partnerId": "h_ad",
+              "partnerType": "OTA",
+              "partnerName": "Agoda",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ad.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": null,
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "81994618"
+          },
+          {
+            "id": "eyJlbnRpdHlJZCI6IjI3NTQxNzA2IiwiaWQiOiI0Njk0NTAwNCJ9",
+            "name": "Manhattan Hotel",
+            "stars": "4",
+            "distance": "0.88 miles from downtown",
+            "relevantPoiDistance": "1.10 miles from Frankfurt Rhein-Main Afb",
+            "coordinates": {
+              "latitude": 50.108798,
+              "longitude": 8.662565
+            },
+            "pivot": false,
+            "images": [
+              "https://content.skyscnr.com/available/1167575303/1167575303_WxH.jpg",
+              "https://content.skyscnr.com/available/1167575251/1167575251_WxH.jpg",
+              "https://content.skyscnr.com/available/1363124100/1363124100_WxH.jpg"
+            ],
+            "reviewsSummary": {
+              "score": 4.5,
+              "imageUrl": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64600-4.svg",
+              "scoreDesc": "Excellent",
+              "total": 1065,
+              "mostPopularWith": "Great for business travelers"
+            },
+            "confidentMessages": [
+              {
+                "type": "location",
+                "score": 4.5,
+                "icon": "thumbs-up",
+                "message": "Hotel location is rated 4.5/5"
+              }
+            ],
+            "minPriceDbookRoomId": null,
+            "minPriceDbookPartnerId": null,
+            "inbound": true,
+            "lowestPrice": {
+              "price": "$106",
+              "rawPrice": 106,
+              "rawBasePrice": 1480,
+              "rawTaxAndFees": 133.56,
+              "partnerId": "h_ad",
+              "partnerType": "OTA",
+              "partnerName": "Agoda",
+              "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ad.png",
+              "isOfficial": false,
+              "funnelType": "meta",
+              "cug": {
+                "rawType": "general",
+                "type": "general",
+                "discountBadge": "10% off",
+                "label": null,
+                "originalPrice": "$118",
+                "discountPercentage": 10
+              },
+              "discount": null,
+              "amenities": []
+            },
+            "otherPrices": [],
+            "isUpSorted": false,
+            "hotelId": "46945004"
+          }
+        ],
+        "filters": [
+          {
+            "type": "price_buckets",
+            "title": "Price",
+            "values": [
+              {
+                "id": "PR_BK_0",
+                "label": "PR_BK_0",
+                "minPrice": 0,
+                "maxPrice": 550,
+                "count": 3,
+                "uniqueId": "price_buckets_PR_BK_0"
+              },
+              {
+                "id": "PR_BK_1",
+                "label": "PR_BK_1",
+                "minPrice": 550,
+                "maxPrice": 1100,
+                "count": 23,
+                "uniqueId": "price_buckets_PR_BK_1"
+              },
+              {
+                "id": "PR_BK_2",
+                "label": "PR_BK_2",
+                "minPrice": 1100,
+                "maxPrice": 1650,
+                "count": 77,
+                "uniqueId": "price_buckets_PR_BK_2"
+              },
+              {
+                "id": "PR_BK_3",
+                "label": "PR_BK_3",
+                "minPrice": 1650,
+                "maxPrice": 2200,
+                "count": 55,
+                "uniqueId": "price_buckets_PR_BK_3"
+              },
+              {
+                "id": "PR_BK_4",
+                "label": "PR_BK_4",
+                "minPrice": 2200,
+                "maxPrice": 2750,
+                "count": 26,
+                "uniqueId": "price_buckets_PR_BK_4"
+              },
+              {
+                "id": "PR_BK_5",
+                "label": "PR_BK_5",
+                "minPrice": 2750,
+                "maxPrice": null,
+                "count": 15,
+                "uniqueId": "price_buckets_PR_BK_5"
+              }
+            ]
+          },
+          {
+            "title": "Book with peace of mind",
+            "type": "confident_type",
+            "values": [
+              {
+                "id": "free_cancellation",
+                "uniqueId": "cancellation_free_cancellation",
+                "count": 106,
+                "label": "Free cancellation"
+              },
+              {
+                "id": "RoomRates_option_payOnArrival",
+                "uniqueId": "pay_type_RoomRates_option_payOnArrival",
+                "count": 75,
+                "label": "Pay on arrival"
+              }
+            ]
+          },
+          {
+            "type": "stars",
+            "title": "Star rating",
+            "values": [
+              {
+                "id": "5",
+                "label": "5 stars",
+                "icon": "star",
+                "count": 8,
+                "uniqueId": "stars_5"
+              },
+              {
+                "id": "4",
+                "label": "4 stars",
+                "icon": "star",
+                "count": 70,
+                "uniqueId": "stars_4"
+              },
+              {
+                "id": "3",
+                "label": "3 stars",
+                "icon": "star",
+                "count": 58,
+                "uniqueId": "stars_3"
+              },
+              {
+                "id": "2",
+                "label": "2 stars",
+                "icon": "star",
+                "count": 7,
+                "uniqueId": "stars_2"
+              },
+              {
+                "id": "1",
+                "label": "1 star",
+                "icon": "star",
+                "count": 2,
+                "uniqueId": "stars_1"
+              },
+              {
+                "id": "no_stars",
+                "label": "Unrated",
+                "icon": null,
+                "count": 54,
+                "uniqueId": "stars_no_stars"
+              }
+            ]
+          },
+          {
+            "type": "meal_plan",
+            "title": "Meal plan",
+            "values": [
+              {
+                "id": "breakfast_included",
+                "label": "Breakfast included",
+                "count": 132,
+                "uniqueId": "meal_plan_breakfast_included"
+              },
+              {
+                "id": "RoomRates_label_mealsNotIncluded",
+                "label": "Meals not included",
+                "count": 182,
+                "uniqueId": "meal_plan_RoomRates_label_mealsNotIncluded"
+              }
+            ]
+          },
+          {
+            "type": "rating",
+            "title": "Guest rating",
+            "values": [
+              {
+                "id": "3",
+                "label": "3+ Satisfactory",
+                "count": 25,
+                "uniqueId": "rating_3"
+              },
+              {
+                "id": "3.5",
+                "label": "3.5+ Good",
+                "count": 43,
+                "uniqueId": "rating_3.5"
+              },
+              {
+                "id": "4",
+                "label": "4+ Very Good",
+                "count": 60,
+                "uniqueId": "rating_4"
+              },
+              {
+                "id": "4.5",
+                "label": "4.5+ Excellent",
+                "count": 36,
+                "uniqueId": "rating_4.5"
+              },
+              {
+                "id": "5",
+                "label": "5+ Outstanding",
+                "count": 4,
+                "uniqueId": "rating_5"
+              }
+            ]
+          },
+          {
+            "type": "guest_type",
+            "title": "Popular with",
+            "values": [
+              {
+                "id": "business",
+                "label": "Business travelers",
+                "count": 15,
+                "uniqueId": "guest_type_business"
+              },
+              {
+                "id": "couple",
+                "label": "Couples",
+                "count": 3,
+                "uniqueId": "guest_type_couple"
+              },
+              {
+                "id": "family",
+                "label": "Families",
+                "count": 14,
+                "uniqueId": "guest_type_family"
+              },
+              {
+                "id": "solo",
+                "label": "Solo travelers",
+                "count": 1,
+                "uniqueId": "guest_type_solo"
+              }
+            ]
+          },
+          {
+            "type": "chain",
+            "title": "Hotel chain",
+            "values": [
+              {
+                "id": "OTA3MTg0MTEsOTA3MTg0MjIsOTA3MTg2ODYsOTA3MTgzNjA=",
+                "label": "Hilton",
+                "count": 8,
+                "uniqueId": "chain_90718411,90718422,90718686,90718360"
+              },
+              {
+                "id": "OTA3MTg0OTAsOTA3MTg0MzQsOTA3MTg4NzYsOTA3MTgzOTQ=",
+                "label": "Accor Hotels",
+                "count": 6,
+                "uniqueId": "chain_90718490,90718434,90718876,90718394"
+              },
+              {
+                "id": "OTA3MTg0ODUsMTEzOTE0OTAy",
+                "label": "Marriott International",
+                "count": 4,
+                "uniqueId": "chain_90718485,113914902"
+              },
+              {
+                "id": "OTA3MTk0MDU=",
+                "label": "B&B",
+                "count": 3,
+                "uniqueId": "chain_90719405"
+              },
+              {
+                "id": "OTA3MTg0MjMsOTA3MTg5NTg=",
+                "label": "InterContinental Hotels Group",
+                "count": 3,
+                "uniqueId": "chain_90718423,90718958"
+              },
+              {
+                "id": "OTA3MTg4OTYsOTA3MTg4OTM=",
+                "label": "Meliã Hotels International",
+                "count": 3,
+                "uniqueId": "chain_90718896,90718893"
+              },
+              {
+                "id": "OTA3MTg5OTc=",
+                "label": "Leonardo",
+                "count": 2,
+                "uniqueId": "chain_90718997"
+              },
+              {
+                "id": "OTA3MTg2MDE=",
+                "label": "Steigenberger",
+                "count": 2,
+                "uniqueId": "chain_90718601"
+              },
+              {
+                "id": "MTE0OTIyMTMw",
+                "label": "Adina",
+                "count": 2,
+                "uniqueId": "chain_114922130"
+              },
+              {
+                "id": "OTA3MTg1NzQ=",
+                "label": "Scandic",
+                "count": 2,
+                "uniqueId": "chain_90718574"
+              },
+              {
+                "id": "OTA3MTg0ODQ=",
+                "label": "Maritim",
+                "count": 1,
+                "uniqueId": "chain_90718484"
+              },
+              {
+                "id": "OTA3MTg2MjM=",
+                "label": "Treff",
+                "count": 1,
+                "uniqueId": "chain_90718623"
+              },
+              {
+                "id": "OTA3MTgzNTA=",
+                "label": "Design",
+                "count": 1,
+                "uniqueId": "chain_90718350"
+              },
+              {
+                "id": "OTA3MTgzMjM=",
+                "label": "Citadines Apart'Hotel",
+                "count": 1,
+                "uniqueId": "chain_90718323"
+              },
+              {
+                "id": "OTA3MTkwODA=",
+                "label": "Meininger",
+                "count": 1,
+                "uniqueId": "chain_90719080"
+              },
+              {
+                "id": "OTA3MTg2MjE=",
+                "label": "Premier Inn",
+                "count": 1,
+                "uniqueId": "chain_90718621"
+              }
+            ]
+          },
+          {
+            "type": "cancellation",
+            "title": "Cancellation policy",
+            "values": [
+              {
+                "id": "free_cancellation",
+                "label": "Free cancellation",
+                "count": 106,
+                "uniqueId": "cancellation_free_cancellation"
+              },
+              {
+                "id": "refundable",
+                "label": "Refundable",
+                "count": 0,
+                "uniqueId": "cancellation_refundable"
+              },
+              {
+                "id": "non_refundable",
+                "label": "Non-Refundable",
+                "count": 184,
+                "uniqueId": "cancellation_non_refundable"
+              }
+            ]
+          },
+          {
+            "type": "amenities",
+            "title": "Amenities",
+            "values": [
+              {
+                "id": "WifiService",
+                "label": "WiFi",
+                "icon": "wifi",
+                "count": 192,
+                "uniqueId": "amenities_WifiService"
+              },
+              {
+                "id": "Parking",
+                "label": "Parking",
+                "icon": "parking",
+                "count": 143,
+                "uniqueId": "amenities_Parking"
+              },
+              {
+                "id": "AirConditioning",
+                "label": "Air conditioning",
+                "icon": "aircon",
+                "count": 116,
+                "uniqueId": "amenities_AirConditioning"
+              },
+              {
+                "id": "AirportShuttleService",
+                "label": "Airport Shuttle",
+                "icon": "bus",
+                "count": 33,
+                "uniqueId": "amenities_AirportShuttleService"
+              },
+              {
+                "id": "Pool",
+                "label": "Pool",
+                "icon": "long-arrow-right",
+                "count": 9,
+                "uniqueId": "amenities_Pool"
+              },
+              {
+                "id": "FitnessCenter",
+                "label": "Fitness Center",
+                "icon": "health-fitness",
+                "count": 76,
+                "uniqueId": "amenities_FitnessCenter"
+              },
+              {
+                "id": "Spa",
+                "label": "Spa",
+                "icon": "hotels--jacuzzi",
+                "count": 33,
+                "uniqueId": "amenities_Spa"
+              },
+              {
+                "id": "FrontDesk24hService",
+                "label": "24-hour Front Desk Service",
+                "icon": "services",
+                "count": 145,
+                "uniqueId": "amenities_FrontDesk24hService"
+              },
+              {
+                "id": "Restaurant",
+                "label": "Restaurant",
+                "icon": "meal",
+                "count": 115,
+                "uniqueId": "amenities_Restaurant"
+              },
+              {
+                "id": "NonSmokingService",
+                "label": "Non-smoking",
+                "icon": "hotels--smoking",
+                "count": 191,
+                "uniqueId": "amenities_NonSmokingService"
+              },
+              {
+                "id": "Laundry",
+                "label": "Laundry",
+                "icon": "cloakroom",
+                "count": 120,
+                "uniqueId": "amenities_Laundry"
+              },
+              {
+                "id": "Kitchen",
+                "label": "Kitchen",
+                "icon": "food",
+                "count": 10,
+                "uniqueId": "amenities_Kitchen"
+              },
+              {
+                "id": "PetsAllowedService",
+                "label": "Pets allowed",
+                "icon": "hotels--pets-allowed",
+                "count": 113,
+                "uniqueId": "amenities_PetsAllowedService"
+              },
+              {
+                "id": "Television",
+                "label": "Television",
+                "icon": "media",
+                "count": 31,
+                "uniqueId": "amenities_Television"
+              },
+              {
+                "id": "BabySittingService",
+                "label": "Baby-sitting",
+                "icon": "baby-carriage",
+                "count": 17,
+                "uniqueId": "amenities_BabySittingService"
+              },
+              {
+                "id": "Lift",
+                "label": "Elevator",
+                "icon": "swap--vertical",
+                "count": 171,
+                "uniqueId": "amenities_Lift"
+              },
+              {
+                "id": "DisabledFacility",
+                "label": "Accessible",
+                "icon": "hotels--disabled-facilities",
+                "count": 78,
+                "uniqueId": "amenities_DisabledFacility"
+              },
+              {
+                "id": "InternetAccessService",
+                "label": "Internet access",
+                "icon": "globe",
+                "count": 187,
+                "uniqueId": "amenities_InternetAccessService"
+              },
+              {
+                "id": "Heating",
+                "label": "Heat",
+                "icon": "estimated",
+                "count": 185,
+                "uniqueId": "amenities_Heating"
+              },
+              {
+                "id": "LuggageStorage",
+                "label": "Luggage storage",
+                "icon": "luggageall",
+                "count": 169,
+                "uniqueId": "amenities_LuggageStorage"
+              },
+              {
+                "id": "FirstAidRoom",
+                "label": "First-aid room",
+                "icon": "long-arrow-right",
+                "count": 170,
+                "uniqueId": "amenities_FirstAidRoom"
+              },
+              {
+                "id": "RoomService",
+                "label": "Room service",
+                "icon": "services",
+                "count": 146,
+                "uniqueId": "amenities_RoomService"
+              },
+              {
+                "id": "SafeDepositBox",
+                "label": "Safe deposit box",
+                "icon": "lock",
+                "count": 139,
+                "uniqueId": "amenities_SafeDepositBox"
+              },
+              {
+                "id": "WiFiInDesignatedAreas",
+                "label": "WiFi in common areas",
+                "icon": "long-arrow-right",
+                "count": 135,
+                "uniqueId": "amenities_WiFiInDesignatedAreas"
+              },
+              {
+                "id": "Fax",
+                "label": "Fax",
+                "icon": "long-arrow-right",
+                "count": 127,
+                "uniqueId": "amenities_Fax"
+              },
+              {
+                "id": "Bar",
+                "label": "Bar",
+                "icon": "bar",
+                "count": 124,
+                "uniqueId": "amenities_Bar"
+              },
+              {
+                "id": "Photocopier",
+                "label": "Photocopier",
+                "icon": "long-arrow-right",
+                "count": 125,
+                "uniqueId": "amenities_Photocopier"
+              },
+              {
+                "id": "ExpressCheckinService",
+                "label": "Express check-in",
+                "icon": "fast-track",
+                "count": 128,
+                "uniqueId": "amenities_ExpressCheckinService"
+              },
+              {
+                "id": "MultilingualStaffService",
+                "label": "Multilingual staff",
+                "icon": "long-arrow-right",
+                "count": 123,
+                "uniqueId": "amenities_MultilingualStaffService"
+              },
+              {
+                "id": "ExpressCheckoutService",
+                "label": "Express check-out",
+                "icon": "fast-track",
+                "count": 112,
+                "uniqueId": "amenities_ExpressCheckoutService"
+              },
+              {
+                "id": "MeetingRoom",
+                "label": "Meeting facilities",
+                "icon": "business",
+                "count": 83,
+                "uniqueId": "amenities_MeetingRoom"
+              },
+              {
+                "id": "BanquetingService",
+                "label": "Banquet service",
+                "icon": "long-arrow-right",
+                "count": 79,
+                "uniqueId": "amenities_BanquetingService"
+              },
+              {
+                "id": "TicketOffice",
+                "label": "Ticket office",
+                "icon": "ticket",
+                "count": 85,
+                "uniqueId": "amenities_TicketOffice"
+              },
+              {
+                "id": "IroningService",
+                "label": "Iron",
+                "icon": "cloakroom",
+                "count": 72,
+                "uniqueId": "amenities_IroningService"
+              },
+              {
+                "id": "SmokingArea",
+                "label": "Smoking areas",
+                "icon": "long-arrow-right",
+                "count": 86,
+                "uniqueId": "amenities_SmokingArea"
+              },
+              {
+                "id": "AccessibleParking",
+                "label": "Accessible parking",
+                "icon": "long-arrow-right",
+                "count": 68,
+                "uniqueId": "amenities_AccessibleParking"
+              },
+              {
+                "id": "ConciergeService",
+                "label": "Concierge",
+                "icon": "luggageall",
+                "count": 62,
+                "uniqueId": "amenities_ConciergeService"
+              },
+              {
+                "id": "TourService",
+                "label": "Tours",
+                "icon": "long-arrow-right",
+                "count": 71,
+                "uniqueId": "amenities_TourService"
+              },
+              {
+                "id": "Shower",
+                "label": "Shower",
+                "icon": "onsen",
+                "count": 66,
+                "uniqueId": "amenities_Shower"
+              },
+              {
+                "id": "BusinessCenter",
+                "label": "Business center",
+                "icon": "long-arrow-right",
+                "count": 63,
+                "uniqueId": "amenities_BusinessCenter"
+              },
+              {
+                "id": "HairDryer",
+                "label": "Hairdryer",
+                "icon": "long-arrow-right",
+                "count": 69,
+                "uniqueId": "amenities_HairDryer"
+              },
+              {
+                "id": "Desk",
+                "label": "Desk",
+                "icon": "paperclip",
+                "count": 63,
+                "uniqueId": "amenities_Desk"
+              },
+              {
+                "id": "LobbyBar",
+                "label": "Lobby bar",
+                "icon": "long-arrow-right",
+                "count": 53,
+                "uniqueId": "amenities_LobbyBar"
+              },
+              {
+                "id": "Sauna",
+                "label": "Sauna",
+                "icon": "onsen",
+                "count": 42,
+                "uniqueId": "amenities_Sauna"
+              },
+              {
+                "id": "WakeUpCallService",
+                "label": "Wake-up call",
+                "icon": "call-back",
+                "count": 52,
+                "uniqueId": "amenities_WakeUpCallService"
+              },
+              {
+                "id": "Cafe",
+                "label": "Café",
+                "icon": "cafe",
+                "count": 40,
+                "uniqueId": "amenities_Cafe"
+              },
+              {
+                "id": "Lounge",
+                "label": "Lounge",
+                "icon": "long-arrow-right",
+                "count": 49,
+                "uniqueId": "amenities_Lounge"
+              },
+              {
+                "id": "CurrencyExchangeService",
+                "label": "Currency exchange",
+                "icon": "long-arrow-right",
+                "count": 37,
+                "uniqueId": "amenities_CurrencyExchangeService"
+              },
+              {
+                "id": "BicycleRentalService",
+                "label": "Bicycle rental",
+                "icon": "long-arrow-right",
+                "count": 37,
+                "uniqueId": "amenities_BicycleRentalService"
+              },
+              {
+                "id": "WheelChairAccess",
+                "label": "Wheelchair accessible",
+                "icon": "hotels--disabled-facilities",
+                "count": 48,
+                "uniqueId": "amenities_WheelChairAccess"
+              },
+              {
+                "id": "Telephone",
+                "label": "Telephone",
+                "icon": "phone-call",
+                "count": 41,
+                "uniqueId": "amenities_Telephone"
+              },
+              {
+                "id": "ElectricVehicleChargingStation",
+                "label": "Electric vehicle (EV) charging station",
+                "icon": "electric",
+                "count": 41,
+                "uniqueId": "amenities_ElectricVehicleChargingStation"
+              },
+              {
+                "id": "ToiletWithGrabBar",
+                "label": "Toilet with grab bar",
+                "icon": "long-arrow-right",
+                "count": 39,
+                "uniqueId": "amenities_ToiletWithGrabBar"
+              },
+              {
+                "id": "NonsmokingFloor",
+                "label": "Non-smoking floor",
+                "icon": "long-arrow-right",
+                "count": 31,
+                "uniqueId": "amenities_NonsmokingFloor"
+              },
+              {
+                "id": "CashMachine",
+                "label": "ATM",
+                "icon": "long-arrow-right",
+                "count": 32,
+                "uniqueId": "amenities_CashMachine"
+              },
+              {
+                "id": "MiniBar",
+                "label": "Minibar",
+                "icon": "bar",
+                "count": 30,
+                "uniqueId": "amenities_MiniBar"
+              },
+              {
+                "id": "MassageService",
+                "label": "Massage",
+                "icon": "long-arrow-right",
+                "count": 23,
+                "uniqueId": "amenities_MassageService"
+              },
+              {
+                "id": "SatelliteTV",
+                "label": "Satellite TV",
+                "icon": "long-arrow-right",
+                "count": 29,
+                "uniqueId": "amenities_SatelliteTV"
+              },
+              {
+                "id": "Garden",
+                "label": "Garden",
+                "icon": "long-arrow-right",
+                "count": 28,
+                "uniqueId": "amenities_Garden"
+              },
+              {
+                "id": "Teahouse",
+                "label": "Teahouse",
+                "icon": "long-arrow-right",
+                "count": 26,
+                "uniqueId": "amenities_Teahouse"
+              },
+              {
+                "id": "ATM",
+                "label": "ATM",
+                "icon": "long-arrow-right",
+                "count": 23,
+                "uniqueId": "amenities_ATM"
+              },
+              {
+                "id": "CarRental",
+                "label": "Car rental",
+                "icon": "cars",
+                "count": 24,
+                "uniqueId": "amenities_CarRental"
+              },
+              {
+                "id": "ShuttleService",
+                "label": "Shuttle service",
+                "icon": "long-arrow-right",
+                "count": 25,
+                "uniqueId": "amenities_ShuttleService"
+              },
+              {
+                "id": "BottledWaterService",
+                "label": "Complimentary bottled water",
+                "icon": "flask",
+                "count": 23,
+                "uniqueId": "amenities_BottledWaterService"
+              },
+              {
+                "id": "LoweredBathroomSink",
+                "label": "Lowered bathroom sink",
+                "icon": "long-arrow-right",
+                "count": 28,
+                "uniqueId": "amenities_LoweredBathroomSink"
+              },
+              {
+                "id": "BathroomEmergencyPullCord",
+                "label": "Bathroom emergency pull cord",
+                "icon": "long-arrow-right",
+                "count": 26,
+                "uniqueId": "amenities_BathroomEmergencyPullCord"
+              },
+              {
+                "id": "RaisedToilet",
+                "label": "Raised toilet",
+                "icon": "long-arrow-right",
+                "count": 24,
+                "uniqueId": "amenities_RaisedToilet"
+              },
+              {
+                "id": "Shop",
+                "label": "Shops",
+                "icon": "long-arrow-right",
+                "count": 22,
+                "uniqueId": "amenities_Shop"
+              },
+              {
+                "id": "HandrailsInStairways",
+                "label": "Handrails in stairways",
+                "icon": "long-arrow-right",
+                "count": 18,
+                "uniqueId": "amenities_HandrailsInStairways"
+              },
+              {
+                "id": "GameRoom",
+                "label": "Gameroom",
+                "icon": "long-arrow-right",
+                "count": 20,
+                "uniqueId": "amenities_GameRoom"
+              },
+              {
+                "id": "TrouserPress",
+                "label": "Pants press",
+                "icon": "long-arrow-right",
+                "count": 17,
+                "uniqueId": "amenities_TrouserPress"
+              },
+              {
+                "id": "SteamRoom",
+                "label": "Steam Room",
+                "icon": "hotels--jacuzzi",
+                "count": 14,
+                "uniqueId": "amenities_SteamRoom"
+              },
+              {
+                "id": "BeautySalon",
+                "label": "Beauty salon",
+                "icon": "long-arrow-right",
+                "count": 17,
+                "uniqueId": "amenities_BeautySalon"
+              },
+              {
+                "id": "ValetParkingService",
+                "label": "Valet parking",
+                "icon": "long-arrow-right",
+                "count": 11,
+                "uniqueId": "amenities_ValetParkingService"
+              },
+              {
+                "id": "IndoorSwimmingPool",
+                "label": "Indoor pool",
+                "icon": "long-arrow-right",
+                "count": 9,
+                "uniqueId": "amenities_IndoorSwimmingPool"
+              },
+              {
+                "id": "Library",
+                "label": "Library",
+                "icon": "long-arrow-right",
+                "count": 13,
+                "uniqueId": "amenities_Library"
+              },
+              {
+                "id": "GolfAmenity",
+                "label": "Golf Course",
+                "icon": "long-arrow-right",
+                "count": 10,
+                "uniqueId": "amenities_GolfAmenity"
+              },
+              {
+                "id": "BathrobeService",
+                "label": "Bathrobe",
+                "icon": "adult",
+                "count": 9,
+                "uniqueId": "amenities_BathrobeService"
+              },
+              {
+                "id": "VisualAlarms",
+                "label": "Visual alarms",
+                "icon": "long-arrow-right",
+                "count": 9,
+                "uniqueId": "amenities_VisualAlarms"
+              },
+              {
+                "id": "CoffeeMaker",
+                "label": "Coffee-maker",
+                "icon": "long-arrow-right",
+                "count": 9,
+                "uniqueId": "amenities_CoffeeMaker"
+              },
+              {
+                "id": "WeddingFacility",
+                "label": "Wedding facilities",
+                "icon": "long-arrow-right",
+                "count": 6,
+                "uniqueId": "amenities_WeddingFacility"
+              },
+              {
+                "id": "ExecutiveFloor",
+                "label": "Executive floor",
+                "icon": "long-arrow-right",
+                "count": 6,
+                "uniqueId": "amenities_ExecutiveFloor"
+              },
+              {
+                "id": "BrailleOrTactileSignage",
+                "label": "Braille or tactile signage",
+                "icon": "long-arrow-right",
+                "count": 9,
+                "uniqueId": "amenities_BrailleOrTactileSignage"
+              },
+              {
+                "id": "AssistiveListeningDevicesAvailable",
+                "label": "Assistive listening devices available",
+                "icon": "long-arrow-right",
+                "count": 7,
+                "uniqueId": "amenities_AssistiveListeningDevicesAvailable"
+              },
+              {
+                "id": "Fireplace",
+                "label": "Fireplace",
+                "icon": "long-arrow-right",
+                "count": 8,
+                "uniqueId": "amenities_Fireplace"
+              },
+              {
+                "id": "ChildrenFacility",
+                "label": "Children's play area",
+                "icon": "long-arrow-right",
+                "count": 5,
+                "uniqueId": "amenities_ChildrenFacility"
+              },
+              {
+                "id": "Nightclub",
+                "label": "Nightclub",
+                "icon": "long-arrow-right",
+                "count": 6,
+                "uniqueId": "amenities_Nightclub"
+              },
+              {
+                "id": "TennisCourt",
+                "label": "Tennis court",
+                "icon": "long-arrow-right",
+                "count": 4,
+                "uniqueId": "amenities_TennisCourt"
+              },
+              {
+                "id": "UVSunbeds",
+                "label": "Tanning beds",
+                "icon": "long-arrow-right",
+                "count": 4,
+                "uniqueId": "amenities_UVSunbeds"
+              },
+              {
+                "id": "Barbeque",
+                "label": "Grill",
+                "icon": "long-arrow-right",
+                "count": 6,
+                "uniqueId": "amenities_Barbeque"
+              },
+              {
+                "id": "Billiards",
+                "label": "Pool Table",
+                "icon": "long-arrow-right",
+                "count": 3,
+                "uniqueId": "amenities_Billiards"
+              },
+              {
+                "id": "Playground",
+                "label": "Playground",
+                "icon": "long-arrow-right",
+                "count": 4,
+                "uniqueId": "amenities_Playground"
+              },
+              {
+                "id": "Solarium",
+                "label": "Solarium",
+                "icon": "weather",
+                "count": 3,
+                "uniqueId": "amenities_Solarium"
+              },
+              {
+                "id": "RollInShower",
+                "label": "Roll-in shower",
+                "icon": "long-arrow-right",
+                "count": 4,
+                "uniqueId": "amenities_RollInShower"
+              },
+              {
+                "id": "StationShuttleService",
+                "label": "Station shuttle",
+                "icon": "long-arrow-right",
+                "count": 3,
+                "uniqueId": "amenities_StationShuttleService"
+              },
+              {
+                "id": "SunbathingArea",
+                "label": "Sunbathing area",
+                "icon": "long-arrow-right",
+                "count": 3,
+                "uniqueId": "amenities_SunbathingArea"
+              },
+              {
+                "id": "TableTennis",
+                "label": "Table tennis",
+                "icon": "duration",
+                "count": 2,
+                "uniqueId": "amenities_TableTennis"
+              },
+              {
+                "id": "SunUmbrella",
+                "label": "Beach umbrellas",
+                "icon": "long-arrow-right",
+                "count": 3,
+                "uniqueId": "amenities_SunUmbrella"
+              },
+              {
+                "id": "HotSpring",
+                "label": "Hot Spring Bath (Onsen) ",
+                "icon": "long-arrow-right",
+                "count": 2,
+                "uniqueId": "amenities_HotSpring"
+              },
+              {
+                "id": "BowlingAlley",
+                "label": "Bowling alley",
+                "icon": "long-arrow-right",
+                "count": 3,
+                "uniqueId": "amenities_BowlingAlley"
+              },
+              {
+                "id": "Microwave",
+                "label": "Microwave",
+                "icon": "food",
+                "count": 5,
+                "uniqueId": "amenities_Microwave"
+              },
+              {
+                "id": "DiningRoom",
+                "label": "Dining room",
+                "icon": "long-arrow-right",
+                "count": 5,
+                "uniqueId": "amenities_DiningRoom"
+              },
+              {
+                "id": "ShowerWithGrabBar",
+                "label": "Shower with grab bar",
+                "icon": "long-arrow-right",
+                "count": 2,
+                "uniqueId": "amenities_ShowerWithGrabBar"
+              },
+              {
+                "id": "SquashCourt",
+                "label": "Squash",
+                "icon": "long-arrow-right",
+                "count": 1,
+                "uniqueId": "amenities_SquashCourt"
+              },
+              {
+                "id": "AuditoryGuidance",
+                "label": "Auditory guidance",
+                "icon": "long-arrow-right",
+                "count": 2,
+                "uniqueId": "amenities_AuditoryGuidance"
+              },
+              {
+                "id": "OutdoorParking",
+                "label": "Outdoor parking",
+                "icon": "long-arrow-right",
+                "count": 2,
+                "uniqueId": "amenities_OutdoorParking"
+              },
+              {
+                "id": "BasketballCourt",
+                "label": "Basketball court",
+                "icon": "long-arrow-right",
+                "count": 1,
+                "uniqueId": "amenities_BasketballCourt"
+              },
+              {
+                "id": "Hairdressers",
+                "label": "Hairdressers",
+                "icon": "long-arrow-right",
+                "count": 2,
+                "uniqueId": "amenities_Hairdressers"
+              },
+              {
+                "id": "TransferShower",
+                "label": "Transfer shower",
+                "icon": "long-arrow-right",
+                "count": 1,
+                "uniqueId": "amenities_TransferShower"
+              },
+              {
+                "id": "BathWithGrabBar",
+                "label": "Bath with grab bar",
+                "icon": "long-arrow-right",
+                "count": 2,
+                "uniqueId": "amenities_BathWithGrabBar"
+              },
+              {
+                "id": "ExecutiveLounge",
+                "label": "Executive lounge",
+                "icon": "long-arrow-right",
+                "count": 1,
+                "uniqueId": "amenities_ExecutiveLounge"
+              },
+              {
+                "id": "SmokingService",
+                "label": "Smoking rooms",
+                "icon": "hotels--smoking",
+                "count": 1,
+                "uniqueId": "amenities_SmokingService"
+              },
+              {
+                "id": "ConferenceFacility",
+                "label": "Conference facilities",
+                "icon": "long-arrow-right",
+                "count": 1,
+                "uniqueId": "amenities_ConferenceFacility"
+              },
+              {
+                "id": "DoctorOnCallService",
+                "label": "On-call Doctor",
+                "icon": "long-arrow-right",
+                "count": 1,
+                "uniqueId": "amenities_DoctorOnCallService"
+              },
+              {
+                "id": "Gymnasium",
+                "label": "Gym",
+                "icon": "long-arrow-right",
+                "count": 1,
+                "uniqueId": "amenities_Gymnasium"
+              },
+              {
+                "id": "ConnectingRoomsService",
+                "label": "Connecting rooms",
+                "icon": "long-arrow-right",
+                "count": 1,
+                "uniqueId": "amenities_ConnectingRoomsService"
+              },
+              {
+                "id": "Chapel",
+                "label": "Chapel",
+                "icon": "long-arrow-right",
+                "count": 1,
+                "uniqueId": "amenities_Chapel"
+              },
+              {
+                "id": "WaterSportsService",
+                "label": "Watersports",
+                "icon": "long-arrow-right",
+                "count": 1,
+                "uniqueId": "amenities_WaterSportsService"
+              },
+              {
+                "id": "Minigolf",
+                "label": "Minigolf",
+                "icon": "long-arrow-right",
+                "count": 1,
+                "uniqueId": "amenities_Minigolf"
+              }
+            ]
+          },
+          {
+            "type": "property_type",
+            "title": "Accommodation type",
+            "values": [
+              {
+                "id": "Hotel",
+                "label": "Hotel",
+                "count": 169,
+                "uniqueId": "property_type_Hotel"
+              },
+              {
+                "id": "ResidenceHotel",
+                "label": "Residence",
+                "count": 0,
+                "uniqueId": "property_type_ResidenceHotel"
+              },
+              {
+                "id": "Hostel",
+                "label": "Hostel",
+                "count": 2,
+                "uniqueId": "property_type_Hostel"
+              },
+              {
+                "id": "GuestHouse",
+                "label": "Guest House",
+                "count": 4,
+                "uniqueId": "property_type_GuestHouse"
+              },
+              {
+                "id": "PrivateHome",
+                "label": "Private home",
+                "count": 0,
+                "uniqueId": "property_type_PrivateHome"
+              },
+              {
+                "id": "CountryHouse",
+                "label": "Country House",
+                "count": 0,
+                "uniqueId": "property_type_CountryHouse"
+              },
+              {
+                "id": "TemporaryResidence",
+                "label": "TemporaryResidence",
+                "count": 0,
+                "uniqueId": "property_type_TemporaryResidence"
+              },
+              {
+                "id": "Resort",
+                "label": "Resort",
+                "count": 0,
+                "uniqueId": "property_type_Resort"
+              },
+              {
+                "id": "UniqueStays",
+                "label": "Unique stays",
+                "count": 0,
+                "uniqueId": "property_type_UniqueStays"
+              },
+              {
+                "id": "HolidayRentals",
+                "label": "Vacation rentals",
+                "count": 0,
+                "uniqueId": "property_type_HolidayRentals"
+              },
+              {
+                "id": "Apartment",
+                "label": "Apartment",
+                "count": 24,
+                "uniqueId": "property_type_Apartment"
+              }
+            ]
+          },
+          {
+            "type": "district",
+            "title": "Neighborhoods",
+            "values": [
+              {
+                "id": "204208528",
+                "label": "Innenstadt",
+                "count": 38,
+                "uniqueId": "district_204208528"
+              },
+              {
+                "id": "213545048",
+                "label": "Bahnhofsviertel",
+                "count": 34,
+                "uniqueId": "district_213545048"
+              },
+              {
+                "id": "213545027",
+                "label": "Innenstadt I",
+                "count": 26,
+                "uniqueId": "district_213545027"
+              },
+              {
+                "id": "213545077",
+                "label": "Flughafen",
+                "count": 13,
+                "uniqueId": "district_213545077"
+              },
+              {
+                "id": "213545051",
+                "label": "Ostend",
+                "count": 7,
+                "uniqueId": "district_213545051"
+              },
+              {
+                "id": "213545049",
+                "label": "Gallus",
+                "count": 4,
+                "uniqueId": "district_213545049"
+              },
+              {
+                "id": "213545055",
+                "label": "Westend Süd",
+                "count": 6,
+                "uniqueId": "district_213545055"
+              },
+              {
+                "id": "213545063",
+                "label": "Bockenheim",
+                "count": 7,
+                "uniqueId": "district_213545063"
+              },
+              {
+                "id": "204208529",
+                "label": "Sud",
+                "count": 6,
+                "uniqueId": "district_204208529"
+              },
+              {
+                "id": "213545193",
+                "label": "Sachsenhausen Süd",
+                "count": 3,
+                "uniqueId": "district_213545193"
+              },
+              {
+                "id": "46528137",
+                "label": "Bergen-Enkheim",
+                "count": 3,
+                "uniqueId": "district_46528137"
+              },
+              {
+                "id": "213545032",
+                "label": "Bornheim/Ostend",
+                "count": 3,
+                "uniqueId": "district_213545032"
+              },
+              {
+                "id": "204208530",
+                "label": "West",
+                "count": 3,
+                "uniqueId": "district_204208530"
+              },
+              {
+                "id": "213545192",
+                "label": "Sachsenhausen Nord",
+                "count": 5,
+                "uniqueId": "district_213545192"
+              },
+              {
+                "id": "213545195",
+                "label": "Griesheim",
+                "count": 3,
+                "uniqueId": "district_213545195"
+              },
+              {
+                "id": "213545029",
+                "label": "Innenstadt Iii",
+                "count": 2,
+                "uniqueId": "district_213545029"
+              },
+              {
+                "id": "204208531",
+                "label": "Mitte-West",
+                "count": 5,
+                "uniqueId": "district_204208531"
+              },
+              {
+                "id": "213545028",
+                "label": "Innenstadt Ii",
+                "count": 2,
+                "uniqueId": "district_213545028"
+              },
+              {
+                "id": "213545076",
+                "label": "Niederrad",
+                "count": 2,
+                "uniqueId": "district_213545076"
+              },
+              {
+                "id": "213545071",
+                "label": "Preungesheim",
+                "count": 1,
+                "uniqueId": "district_213545071"
+              },
+              {
+                "id": "204208532",
+                "label": "Nord-West",
+                "count": 2,
+                "uniqueId": "district_204208532"
+              },
+              {
+                "id": "213545062",
+                "label": "Rödelheim",
+                "count": 1,
+                "uniqueId": "district_213545062"
+              },
+              {
+                "id": "204208535",
+                "label": "Ost",
+                "count": 2,
+                "uniqueId": "district_204208535"
+              },
+              {
+                "id": "213545199",
+                "label": "Schwanheim",
+                "count": 2,
+                "uniqueId": "district_213545199"
+              },
+              {
+                "id": "213545052",
+                "label": "Gutleutviertel",
+                "count": 1,
+                "uniqueId": "district_213545052"
+              },
+              {
+                "id": "213545059",
+                "label": "Nordend West",
+                "count": 1,
+                "uniqueId": "district_213545059"
+              },
+              {
+                "id": "213545047",
+                "label": "Altstadt",
+                "count": 1,
+                "uniqueId": "district_213545047"
+              },
+              {
+                "id": "213545200",
+                "label": "Sossenheim",
+                "count": 1,
+                "uniqueId": "district_213545200"
+              },
+              {
+                "id": "204208533",
+                "label": "Mitte-Nord",
+                "count": 1,
+                "uniqueId": "district_204208533"
+              },
+              {
+                "id": "213545072",
+                "label": "Berkersheim",
+                "count": 1,
+                "uniqueId": "district_213545072"
+              }
+            ]
+          },
+          {
+            "type": "poi",
+            "title": "Distance",
+            "values": [
+              {
+                "poiType": "Airport",
+                "poiName": "Airport",
+                "poiOptions": [
+                  {
+                    "id": 95673652,
+                    "name": "Frankfurt am Main",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.5621411,
+                      50.037905
+                    ],
+                    "image": null,
+                    "subType": "Airport"
+                  },
+                  {
+                    "id": 95673548,
+                    "name": "Frankfurt Hahn",
+                    "type": "Transportation",
+                    "coordinate": [
+                      7.266667,
+                      49.95
+                    ],
+                    "image": null,
+                    "subType": "Airport"
+                  },
+                  {
+                    "id": 129056720,
+                    "name": "Frankfurt Rhein-Main Afb",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.683333,
+                      50.1
+                    ],
+                    "image": null,
+                    "subType": "Airport"
+                  }
+                ]
+              },
+              {
+                "poiType": "Landmark",
+                "poiName": "Landmark",
+                "poiOptions": [
+                  {
+                    "id": 206529713,
+                    "name": "Frankfurt Messe",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6482767,
+                      50.1101538
+                    ],
+                    "image": null,
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206532738,
+                    "name": "The Roman Forum",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6821547,
+                      50.1102879
+                    ],
+                    "image": "https://content.skyscnr.com/POI/206532738/1611375/1611375_WxH.jpg",
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206570049,
+                    "name": "Main",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6777029634,
+                      50.1067041735
+                    ],
+                    "image": "https://content.skyscnr.com/POI/206570049/1739322/1739322_WxH.jpg",
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206570369,
+                    "name": "Zeil 106",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6874391,
+                      50.1148126
+                    ],
+                    "image": null,
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 211028886,
+                    "name": "Terminal 1 of Frankfurt Airport",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.5779250351,
+                      50.0500243696
+                    ],
+                    "image": null,
+                    "subType": "TransitwayPlaza"
+                  },
+                  {
+                    "id": 207153039,
+                    "name": "Messe Frankfurt Medien und Service GmbH - Advertising Services",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6394114,
+                      50.1113077
+                    ],
+                    "image": null,
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206570361,
+                    "name": "Frankfurt Cathedral",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6854204,
+                      50.1106631
+                    ],
+                    "image": "https://content.skyscnr.com/POI/206570361/1740015/1740015_WxH.jpg",
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206569865,
+                    "name": "Goethe House",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.677607423,
+                      50.1112279058
+                    ],
+                    "image": null,
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 211028896,
+                    "name": "Terminal 2 of Frankfurt Airport",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.5868835,
+                      50.0515427
+                    ],
+                    "image": null,
+                    "subType": "TransitwayPlaza"
+                  },
+                  {
+                    "id": 207598206,
+                    "name": "Skyline Plaza",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6525834,
+                      50.1093718
+                    ],
+                    "image": null,
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206532717,
+                    "name": "Historisches Museum Frankfurt",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.682478,
+                      50.109287
+                    ],
+                    "image": "https://content.skyscnr.com/POI/206532717/1611531/1611531_WxH.jpg",
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206570365,
+                    "name": "Old Opera House",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.671916,
+                      50.1160319
+                    ],
+                    "image": null,
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206532732,
+                    "name": "Euromast",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6739655531,
+                      50.1094916296
+                    ],
+                    "image": "https://content.skyscnr.com/POI/206532732/1611399/1611399_WxH.jpg",
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206686787,
+                    "name": "Congress Center Messe Frankfurt",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6501099,
+                      50.1127654
+                    ],
+                    "image": null,
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206691260,
+                    "name": "Fair Frankfurt",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6466423,
+                      50.1114969
+                    ],
+                    "image": null,
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206532729,
+                    "name": "Zoo Frankfurt",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.702216,
+                      50.1157873
+                    ],
+                    "image": null,
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206571847,
+                    "name": "Römer City Hall",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6815767862,
+                      50.1104228371
+                    ],
+                    "image": "https://content.skyscnr.com/POI/206571847/1743279/1743279_WxH.jpg",
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206532724,
+                    "name": "Iron Footbridge",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6821215,
+                      50.1081276
+                    ],
+                    "image": null,
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206532740,
+                    "name": "MMK Museum of Modern Art (MMK Museum fur Moderne Kunst)",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.6847801,
+                      50.1120018
+                    ],
+                    "image": "https://content.skyscnr.com/POI/206532740/1611361/1611361_WxH.jpg",
+                    "subType": "TouristAttraction"
+                  },
+                  {
+                    "id": 206528605,
+                    "name": "Flea Market",
+                    "type": "Landmark",
+                    "coordinate": [
+                      8.7205213,
+                      50.1128577
+                    ],
+                    "image": null,
+                    "subType": "TouristAttraction"
+                  }
+                ]
+              },
+              {
+                "poiType": "Entertainment",
+                "poiName": "Entertainment",
+                "poiOptions": [
+                  {
+                    "id": 219753121,
+                    "name": "Oper Frankfurt",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6738367,
+                      50.108139
+                    ],
+                    "image": null,
+                    "subType": "TheatreHall"
+                  },
+                  {
+                    "id": 219262947,
+                    "name": "Spielplatz Fritz-Bauer-Straße",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6235018,
+                      50.1809338
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219273662,
+                    "name": "Spielplatz",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6659384,
+                      50.134296
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219282288,
+                    "name": "Spielplatz Löherstraße",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6864593,
+                      50.1069765
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219284440,
+                    "name": "Playground Feierabendweg",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.5207775,
+                      50.0807652
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219284500,
+                    "name": "Spielplatz am Hessenplatz",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6425495,
+                      50.1243952
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219305707,
+                    "name": "Spielplatz Untere Günthersburgallee",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.695848699999999,
+                      50.1254362
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219311517,
+                    "name": "Playground Volkspark Niddatal",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6251688,
+                      50.144886
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219329144,
+                    "name": "Spielplatz Sommerhoffpark",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6495796,
+                      50.0963171
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219346977,
+                    "name": "Spielplatz Landgrafenstraße",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6471331,
+                      50.1203094
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219355277,
+                    "name": "Spielplatz am Blauen Steg",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6097649,
+                      50.1205198
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219394388,
+                    "name": "Glauburgplatz Playground",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6896602,
+                      50.1273625
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219402094,
+                    "name": "Frauensteinplatz Playground",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6798252,
+                      50.1300286
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219476805,
+                    "name": "Spielplatz Mönchhof",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.7616604,
+                      50.1515962
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219489973,
+                    "name": "Spielplatz Luciusstraße",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.5423927,
+                      50.098236
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219525091,
+                    "name": "Spielplatz Merianplatz",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.694972,
+                      50.1207466
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219591413,
+                    "name": "Drachenburg (Spielplatz)",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6865334,
+                      50.1193467
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  },
+                  {
+                    "id": 219593648,
+                    "name": "Farm Playground",
+                    "type": "Entertainment",
+                    "coordinate": [
+                      8.6261971,
+                      50.1843961
+                    ],
+                    "image": null,
+                    "subType": "AmusementPark"
+                  }
+                ]
+              },
+              {
+                "poiType": "Transportation",
+                "poiName": "Transportation",
+                "poiOptions": [
+                  {
+                    "id": 207974606,
+                    "name": "Frankfurt Central Station",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.6621618,
+                      50.106529
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 208342626,
+                    "name": "Frankfurt Am Main Messe Station",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.643333,
+                      50.111944
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 208342624,
+                    "name": "Frankfurt Airport Long-Distance Station",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.57,
+                      50.052778
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 208342627,
+                    "name": "Frankfurt Airport Regional Station",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.570556,
+                      50.051944
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 208342636,
+                    "name": "Frankfurt South Station",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.686054775,
+                      50.0997803263
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 207974525,
+                    "name": "Frankfurt Airport Railway Station",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.571251,
+                      50.051219
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 110609051,
+                    "name": "Frankfurt (Main) Flughafen Regionalbahnhof",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.571267,
+                      50.05127
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 210910938,
+                    "name": "Frankfurt Main West",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.639699,
+                      50.119258
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 217332898,
+                    "name": "Frankfurt(M)Galluswarte",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.6443229,
+                      50.1045397
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 207974710,
+                    "name": "Eschborn Sued Station",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.578486999999999,
+                      50.133563
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 213788350,
+                    "name": "Rödelheim",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.607246,
+                      50.1249951
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 210888922,
+                    "name": "Frankfurt-Nied",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.570583,
+                      50.102681
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 208342634,
+                    "name": "Frankfurt Hauptwache Station",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.678889,
+                      50.113889
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 214170393,
+                    "name": "Frankfurt(Main) Messe",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.643485,
+                      50.112056
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 210906826,
+                    "name": "Frankfurt-Zeilsheim",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.506011,
+                      50.090124
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  },
+                  {
+                    "id": 205750548,
+                    "name": "Riedwiese",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.642807,
+                      50.171291
+                    ],
+                    "image": null,
+                    "subType": "MetroStation"
+                  },
+                  {
+                    "id": 207974619,
+                    "name": "Frankfort Train Station",
+                    "type": "Transportation",
+                    "coordinate": [
+                      8.633247,
+                      50.068228
+                    ],
+                    "image": null,
+                    "subType": "TrainStation"
+                  }
+                ]
+              },
+              {
+                "poiType": "Shopping",
+                "poiName": "Shopping",
+                "poiOptions": [
+                  {
+                    "id": 207979766,
+                    "name": "Goethestraße",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.6741254,
+                      50.1139928
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 207983264,
+                    "name": "MyZeil",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.6816752,
+                      50.1144566
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 211917325,
+                    "name": "GALERIA Kaufhof",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.653394,
+                      50.109394
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 208354126,
+                    "name": "Louis Vuitton",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.6760449,
+                      50.1135334
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 212135116,
+                    "name": "The Body Shop",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.68146,
+                      50.11473
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 211742759,
+                    "name": "Porsche Design",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.571807,
+                      50.051905
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 207981473,
+                    "name": "Camper（Frankfurt）",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.6747106822,
+                      50.113997
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 208354962,
+                    "name": "PICARD",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.5721488,
+                      50.0508023
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 208046826,
+                    "name": "Swarovski",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.681235,
+                      50.112044
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 208354507,
+                    "name": "Mini Bar",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.5721488,
+                      50.0508023
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 207983272,
+                    "name": "Kleinmarkthalle",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.6838499,
+                      50.1128317
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 207972547,
+                    "name": "Heinemann Duty Free",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.562152108,
+                      50.0379341852
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 207972034,
+                    "name": "BUCHERER",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.6771774292,
+                      50.11170578
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 207977819,
+                    "name": "Sophien Street",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.6496896744,
+                      50.1234207153
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 209479106,
+                    "name": "Woolworth",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.643143,
+                      50.123608
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 208354398,
+                    "name": "Moncler",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.6737633,
+                      50.114050399999996
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 208354548,
+                    "name": "outlet.deluxe & Mandelkern",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.6788498,
+                      50.116427
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 211838568,
+                    "name": "Virgin",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.5540599823,
+                      50.0476989746
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 208352944,
+                    "name": "5k Apotheke",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.692202,
+                      50.113231
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  },
+                  {
+                    "id": 208537693,
+                    "name": "Main-Taunus-Zentrum",
+                    "type": "Shopping",
+                    "coordinate": [
+                      8.5274236,
+                      50.1190158
+                    ],
+                    "image": null,
+                    "subType": "ShoppingMall"
+                  }
+                ]
+              },
+              {
+                "poiType": "Education",
+                "poiName": "Education",
+                "poiOptions": [
+                  {
+                    "id": 208368695,
+                    "name": "Goethe University Frankfurt",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6666669846,
+                      50.1277770996
+                    ],
+                    "image": "https://content.skyscnr.com/POI/208368695/1960371/1960371_WxH.jpg",
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 210912344,
+                    "name": "Frankfurt University of Applied Sciences",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6916856766,
+                      50.1286849976
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209403429,
+                    "name": "Hochschule Fresenius Frankfurt am Main - Fachbereich Gesundheit & Soziales",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6501207352,
+                      50.0921287537
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209414710,
+                    "name": "International School of Management ISM Campus Frankfurt / Main",
+                    "type": "Education",
+                    "coordinate": [
+                      8.687207222,
+                      50.0983734131
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209518942,
+                    "name": "Frankfurt University of Applied Sciences Sporthalle",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6927995682,
+                      50.1310882568
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209439305,
+                    "name": "Provadis School of International Management & Technology Ltd",
+                    "type": "Education",
+                    "coordinate": [
+                      8.5382614136,
+                      50.0988883972
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209442568,
+                    "name": "Goethe-Card Validierer",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6526908875,
+                      50.1203536987
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209446119,
+                    "name": "Carolinum Dental University Institute gGmbH",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6569414139,
+                      50.0944137573
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209476403,
+                    "name": "FOM Hochschule Hochschulzentrum Frankfurt a.M.",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6323347092,
+                      50.1163711548
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209485635,
+                    "name": "Juridicum",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6527500153,
+                      50.1184082031
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209536906,
+                    "name": "Ghostwriter-Online.com",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6410903931,
+                      50.1278839111
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209541375,
+                    "name": "Sankt Georgen Graduate School of Philosophy and Theology",
+                    "type": "Education",
+                    "coordinate": [
+                      8.7131719589,
+                      50.0988197327
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209569937,
+                    "name": "Center for Neurology and Neurosurgery: Neurology",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6485414505,
+                      50.0910072327
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 210889539,
+                    "name": "Goethe University campus Riedberg",
+                    "type": "Education",
+                    "coordinate": [
+                      8.632689476,
+                      50.1741447449
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 210898435,
+                    "name": "European School of Design",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6446800232,
+                      50.1162147522
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 210909098,
+                    "name": "GRADE - Goethe Graduate Academy",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6527805328,
+                      50.1187553406
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209406095,
+                    "name": "Stage & Musical School Frankfurt",
+                    "type": "Education",
+                    "coordinate": [
+                      8.7011098862,
+                      50.1124992371
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209466674,
+                    "name": "Studienkolleg Frankfurt",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6604642868,
+                      50.119178772
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  },
+                  {
+                    "id": 209609003,
+                    "name": "Goethe University Frankfurt Hochschulrechenzentrum",
+                    "type": "Education",
+                    "coordinate": [
+                      8.6306505203,
+                      50.1726837158
+                    ],
+                    "image": null,
+                    "subType": "UniversityBuilding"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "discount_types",
+            "title": "Deals",
+            "values": [
+              {
+                "id": "cug",
+                "count": 31,
+                "label": "Show discounts",
+                "uniqueId": "discount_types_cug"
+              }
+            ]
+          }
+        ],
+        "hotelsCoordinates": [
+          {
+            "id": "47075616",
+            "latitude": 50.10899,
+            "longitude": 8.66548,
+            "price": "$28"
+          },
+          {
+            "id": "204978838",
+            "latitude": 50.104476,
+            "longitude": 8.664078,
+            "price": "$71"
+          },
+          {
+            "id": "46953908",
+            "latitude": 50.10542,
+            "longitude": 8.665224,
+            "price": "$71"
+          },
+          {
+            "id": "46943829",
+            "latitude": 50.106093,
+            "longitude": 8.665663,
+            "price": "$94"
+          },
+          {
+            "id": "46939603",
+            "latitude": 50.10767,
+            "longitude": 8.65877,
+            "price": "$87"
+          },
+          {
+            "id": "46952682",
+            "latitude": 50.032752,
+            "longitude": 8.592201,
+            "price": "$89"
+          },
+          {
+            "id": "212707841",
+            "latitude": 50.108943,
+            "longitude": 8.706457,
+            "price": "$90"
+          },
+          {
+            "id": "47158260",
+            "latitude": 50.10372,
+            "longitude": 8.63447,
+            "price": "$86"
+          },
+          {
+            "id": "203914668",
+            "latitude": 50.108515,
+            "longitude": 8.669401,
+            "price": "$100"
+          },
+          {
+            "id": "213437575",
+            "latitude": 50.119589,
+            "longitude": 8.624295,
+            "price": "$77"
+          },
+          {
+            "id": "115865055",
+            "latitude": 50.013808,
+            "longitude": 8.587052,
+            "price": "$78"
+          },
+          {
+            "id": "117337899",
+            "latitude": 50.107983,
+            "longitude": 8.670869,
+            "price": "$91"
+          },
+          {
+            "id": "71782398",
+            "latitude": 50.10431,
+            "longitude": 8.61787,
+            "price": "$92"
+          },
+          {
+            "id": "81994618",
+            "latitude": 50.111984,
+            "longitude": 8.681434,
+            "price": "$88"
+          },
+          {
+            "id": "46945004",
+            "latitude": 50.108798,
+            "longitude": 8.662565,
+            "price": "$106"
+          }
+        ],
+        "sortOptions": [
+          {
+            "optionName": "Best",
+            "type": "-relevance"
+          },
+          {
+            "optionName": "Price (high to low)",
+            "type": "-price"
+          },
+          {
+            "optionName": "Price (low to high)",
+            "type": "price"
+          },
+          {
+            "optionName": "Distance from downtown",
+            "type": "distance"
+          },
+          {
+            "optionName": "Guest rating",
+            "type": "-rating"
+          },
+          {
+            "optionName": "Stars (5 to 1)",
+            "type": "-stars"
+          },
+          {
+            "optionName": "Stars (1 to 5)",
+            "type": "stars"
+          }
+        ],
+        "travelInfos": [],
+        "partnerList": [
+          "Booking.com",
+          "Trip.com",
+          "Hotels.com",
+          "Hyatt",
+          "Expedia",
+          "IHG"
+        ]
+      },
+      "status": {
+        "completionPercentage": 100,
+        "searchId": "b8be8cecd8cb6ff1b23137a8f9e6b6f302642f0bb82526146daf09266f493c2e",
+        "requestId": "c1e99fa1-c0bd-4a55-ae38-2dce7c11ad31",
+        "fastSearchStatus": "COMPLETED",
+        "finalStatus": "COMPLETED"
+      },
+      "error": null,
+      "correlationId": "4ca910f0-bc67-4de1-8892-dc6a5cab92e2"
+    },
+    "meta": {
+      "currentPage": 1,
+      "limit": 15,
+      "totalRecords": 199,
+      "totalPage": 14
+    },
+    "status": true,
+    "message": "Successful"
+},
+  "cheapest_hotel": {
+    "data": {
+      "metaInfo": {
+        "ratesCta": "Go to site",
+        "rates": [
+          {
+            "partnerName": "Agoda",
+            "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ad.png",
+            "partnerId": "h_ad",
+            "roomType": "Single room",
+            "roomPolicies": "Room Only, Non-Refundable",
+            "deeplink": "www.skyscanner.com/hotel_deeplink/4.0/US/en-US/USD/h_ad/47075616/2024-07-01/2024-07-15/hotel/hotel/hotels?guests=1&rooms=1&legacy_provider_id=22&request_id=69f892f7-4c58-44a0-89ba-b17287112fbb&pre_redirect_id=20fdc249-02b9-42a7-8990-d65fc5ee8dda&q_datetime_utc=2024-06-24T16%3A59%3A07&redirect_delay=1000&appName=goAndroidMobile&appVersion=7.132&tm_city_code=FRAN&tm_country_code=DE&tm_place_name=Frankfurt&tm_stars=3&ticket_price=384.0&deeplink_data=eyJmaWVsZHMiOiB7InNpZ25hdHVyZSI6ICI2Njg0YWMzMTk0YmEzNDM2M2EyY2U2YzNlYWEzMjgwMyJ9LCAidXJsIjogImh0dHBzOi8vd3d3LmFnb2RhLmNvbS9wYXJ0bmVycy9wYXJ0bmVyc2VhcmNoLmFzcHg%2FY2lkPTE4NDYzMzcmaGlkPTMyODM5MzQmY3VycmVuY3k9VVNEJmNoZWNraW49MjAyNC0wNy0wMSZjaGVja291dD0yMDI0LTA3LTE1Jk51bWJlcm9mQWR1bHRzPTEmTnVtYmVyb2ZDaGlsZHJlbj0wJlJvb21zPTEmbWNpZD0zMDM4Jm1hc3RlclJvb21JZD00OTcxMjY4In0%3D&max_price=1514.0",
+            "rawPrice": 27,
+            "rawPriceGbp": 22,
+            "price": "$27",
+            "rateBriefFeatures": [
+              "Room Only",
+              "Non-Refundable",
+              "Single room"
+            ],
+            "isOfficial": false,
+            "isShowHotelName": false,
+            "score": 5
+          },
+          {
+            "partnerName": "Booking.com",
+            "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_bc.png",
+            "partnerId": "h_bc",
+            "roomType": "Shared room",
+            "roomPolicies": "Meals not included, Non-Refundable",
+            "deeplink": "www.skyscanner.com/hotel_deeplink/4.0/US/en-US/USD/h_bc/47075616/2024-07-01/2024-07-15/hotel/hotel/hotels?guests=1&rooms=1&legacy_provider_id=13&request_id=69f892f7-4c58-44a0-89ba-b17287112fbb&pre_redirect_id=20fdc249-02b9-42a7-8990-d65fc5ee8dda&q_datetime_utc=2024-06-24T16%3A59%3A07&redirect_delay=1000&appName=goAndroidMobile&appVersion=7.132&tm_city_code=FRAN&tm_country_code=DE&tm_place_name=Frankfurt&tm_stars=3&ticket_price=428.0&deeplink_data=eyJmaWVsZHMiOiB7InNpZ25hdHVyZSI6ICI5NmNlODI0NjBlOTEwYzc5NGI2YWEwYTI1NDA3ZmY4YSIsICJibG9ja19pZCI6ICI3MzM5NDE3XzI2Mjg3NTcyMl8wXzJfMCJ9fQ%3D%3D&max_price=1514.0",
+            "rawPrice": 31,
+            "rawPriceGbp": 24,
+            "price": "$31",
+            "rateBriefFeatures": [
+              "Meals not included",
+              "Non-Refundable",
+              "Shared room"
+            ],
+            "isOfficial": false,
+            "isShowHotelName": false,
+            "score": 4
+          },
+          {
+            "partnerName": "Edreams",
+            "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ei.png",
+            "partnerId": "h_ei",
+            "roomType": "Shared room",
+            "roomPolicies": "Meals not included, Non-Refundable",
+            "deeplink": "www.skyscanner.com/hotel_deeplink/4.0/US/en-US/USD/h_ei/47075616/2024-07-01/2024-07-15/hotel/hotel/hotels?guests=1&rooms=1&legacy_provider_id=927018&request_id=69f892f7-4c58-44a0-89ba-b17287112fbb&pre_redirect_id=20fdc249-02b9-42a7-8990-d65fc5ee8dda&q_datetime_utc=2024-06-24T16%3A59%3A07&redirect_delay=1000&appName=goAndroidMobile&appVersion=7.132&tm_city_code=FRAN&tm_country_code=DE&tm_place_name=Frankfurt&tm_stars=3&ticket_price=428.0&deeplink_data=eyJmaWVsZHMiOiB7InNpZ25hdHVyZSI6ICI5NmNlODI0NjBlOTEwYzc5NGI2YWEwYTI1NDA3ZmY4YSIsICJibG9ja19pZCI6ICI3MzM5NDE3XzI2Mjg3NTcyMl8wXzJfMCJ9fQ%3D%3D&max_price=1514.0",
+            "rawPrice": 31,
+            "rawPriceGbp": 24,
+            "price": "$31",
+            "rateBriefFeatures": [
+              "Meals not included",
+              "Non-Refundable",
+              "Shared room"
+            ],
+            "isOfficial": false,
+            "isShowHotelName": false,
+            "score": 3
+          }
+        ]
+      },
+      "roomTypes": [
+        {
+          "name": "Double Room",
+          "sizeString": "13 m²",
+          "amenities": [
+            {
+              "key": "WifiService",
+              "icon": "wifi",
+              "value": "WiFi"
+            },
+            {
+              "key": "Shower",
+              "icon": "onsen",
+              "value": "Shower"
+            },
+            {
+              "key": "AirConditioning",
+              "icon": "aircon",
+              "value": "Air conditioning"
+            },
+            {
+              "key": "Heating",
+              "value": "Heat"
+            },
+            {
+              "key": "HairDryer",
+              "value": "Hairdryer"
+            },
+            {
+              "key": "IroningService",
+              "value": "Iron"
+            },
+            {
+              "key": "Fan",
+              "value": "Fan"
+            }
+          ],
+          "size": {
+            "min": 13,
+            "max": 13,
+            "unit": "m2"
+          },
+          "baseRoomBedsString": [
+            "1x queen bed "
+          ],
+          "id": "450211251",
+          "photos": [
+            {
+              "partner": "d_ct",
+              "room_id": "450211251",
+              "url": "https://content.skyscnr.com/moat/images/c55e2f7053d02046787ece6db686f4cc/c55e2f7053d02046787ece6db686f4cc_WxH.jpg",
+              "partner_name": null,
+              "fromPartner": "From Trip.com"
+            },
+            {
+              "partner": "d_ct",
+              "room_id": "450211251",
+              "url": "https://content.skyscnr.com/moat/images/6796741a414c47e285947e7136625395/6796741a414c47e285947e7136625395_WxH.jpg",
+              "partner_name": null,
+              "fromPartner": "From Trip.com"
+            },
+            {
+              "partner": "d_ct",
+              "room_id": "450211251",
+              "url": "https://content.skyscnr.com/moat/images/e3a86d3f8e8fafd21942968225468527/e3a86d3f8e8fafd21942968225468527_WxH.jpg",
+              "partner_name": null,
+              "fromPartner": "From Trip.com"
+            },
+            {
+              "partner": "d_ct",
+              "room_id": "450211251",
+              "url": "https://content.skyscnr.com/moat/images/810d7bbd82e2aa7b092673186d7d4d0e/810d7bbd82e2aa7b092673186d7d4d0e_WxH.jpg",
+              "partner_name": null,
+              "fromPartner": "From Trip.com"
+            },
+            {
+              "partner": "d_ct",
+              "room_id": "450211251",
+              "url": "https://content.skyscnr.com/moat/images/bd50890d12f561f2de68609e2be73568/bd50890d12f561f2de68609e2be73568_WxH.jpg",
+              "partner_name": null,
+              "fromPartner": "From Trip.com"
+            },
+            {
+              "partner": "d_ct",
+              "room_id": "450211251",
+              "url": "https://content.skyscnr.com/moat/images/d7604b4725fde481f47c5e6e631737ce/d7604b4725fde481f47c5e6e631737ce_WxH.jpg",
+              "partner_name": null,
+              "fromPartner": "From Trip.com"
+            }
+          ],
+          "floors": null,
+          "rateGroups": [
+            {
+              "photos": [
+                {
+                  "url": "https://content.skyscnr.com/moat/images/c55e2f7053d02046787ece6db686f4cc/c55e2f7053d02046787ece6db686f4cc_WxH.jpg",
+                  "partnerName": "Trip.com",
+                  "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                  "partnerId": "d_ct",
+                  "fromPartner": "From Trip.com"
+                },
+                {
+                  "url": "https://content.skyscnr.com/moat/images/6796741a414c47e285947e7136625395/6796741a414c47e285947e7136625395_WxH.jpg",
+                  "partnerName": "Trip.com",
+                  "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                  "partnerId": "d_ct",
+                  "fromPartner": "From Trip.com"
+                },
+                {
+                  "url": "https://content.skyscnr.com/moat/images/e3a86d3f8e8fafd21942968225468527/e3a86d3f8e8fafd21942968225468527_WxH.jpg",
+                  "partnerName": "Trip.com",
+                  "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                  "partnerId": "d_ct",
+                  "fromPartner": "From Trip.com"
+                },
+                {
+                  "url": "https://content.skyscnr.com/moat/images/810d7bbd82e2aa7b092673186d7d4d0e/810d7bbd82e2aa7b092673186d7d4d0e_WxH.jpg",
+                  "partnerName": "Trip.com",
+                  "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                  "partnerId": "d_ct",
+                  "fromPartner": "From Trip.com"
+                },
+                {
+                  "url": "https://content.skyscnr.com/moat/images/bd50890d12f561f2de68609e2be73568/bd50890d12f561f2de68609e2be73568_WxH.jpg",
+                  "partnerName": "Trip.com",
+                  "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                  "partnerId": "d_ct",
+                  "fromPartner": "From Trip.com"
+                },
+                {
+                  "url": "https://content.skyscnr.com/moat/images/d7604b4725fde481f47c5e6e631737ce/d7604b4725fde481f47c5e6e631737ce_WxH.jpg",
+                  "partnerName": "Trip.com",
+                  "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                  "partnerId": "d_ct",
+                  "fromPartner": "From Trip.com"
+                }
+              ],
+              "rates": [
+                {
+                  "acceptedCards": [
+                    {
+                      "code": "visa",
+                      "name": "Visa"
+                    },
+                    {
+                      "code": "master-card",
+                      "name": "Mastercard"
+                    },
+                    {
+                      "code": "american-express",
+                      "name": "American Express"
+                    },
+                    {
+                      "code": "jcb",
+                      "name": "JCB"
+                    },
+                    {
+                      "code": "unionpay",
+                      "name": "UnionPay"
+                    },
+                    {
+                      "code": "diners-club",
+                      "name": "Diners Club"
+                    },
+                    {
+                      "code": "discover",
+                      "name": "Discover"
+                    }
+                  ],
+                  "cancellationPolicy": "If you cancel or don't attend your hotel booking, you'll not be refunded any of your original payment.",
+                  "guaranteePolicy": {
+                    "depositAmount": "$1,609.22",
+                    "description": "A deposit for your entire stay is due when you book."
+                  },
+                  "freeMessageForRefundable": null,
+                  "href": {
+                    "paymentType": "PayOnArrival",
+                    "partnerCurrency": "USD",
+                    "roomRef": "450211251",
+                    "rateRef": "718383_1045768125_0_0_0_0_FG",
+                    "checkout": "2024-07-15",
+                    "instantConfirmation": false,
+                    "version": 2,
+                    "partnerRef": "d_ct",
+                    "adults": 1,
+                    "partnerPrice": 1609.22,
+                    "checkin": "2024-07-01",
+                    "rooms": 1
+                  },
+                  "hrefHash": "7c0ee298632363b8a1ae7279981758ed4b218bf66c92d4d8164b7160f97d1b05e1119e1f5f88e30a5c09abf3201836786180c876b3f7c01f8df82444a5d34e8c",
+                  "rateName": "Option 1",
+                  "price": {
+                    "rawTotal": 1504,
+                    "total": "$1,504",
+                    "totalWithTaxes": "$1,639.32",
+                    "rawTotalWithTaxes": 1639.32,
+                    "baseTotal": "$1,503.96",
+                    "rawBaseTotal": 1503.96,
+                    "perNight": "$107",
+                    "rawPerNight": 107.42857142857143,
+                    "perNightBreakdown": "($107.43 per night)",
+                    "surcharges": {
+                      "title": "Taxes & Fees",
+                      "rawTotalTaxes": 135.36,
+                      "totalTaxes": "$135.36",
+                      "content": [
+                        {
+                          "name": "Value Added Tax",
+                          "amount": "$105.26"
+                        },
+                        {
+                          "name": "City Tax",
+                          "amount": "$30.10"
+                        }
+                      ]
+                    },
+                    "daily": null,
+                    "paymentScheduleBreakdown": {
+                      "payNow": null,
+                      "payOnArrival": {
+                        "text": "$1,639.32(1.527,76 €)",
+                        "info": {
+                          "text": "The price shown in {strong}USD{/strong} is for reference only and it may change. Payment at check-in must be in {strong}EUR{/strong}. {strong}Reference exchange rate: $1.00 = 0,93 €{/strong}"
+                        },
+                        "baselineDelta": "positive",
+                        "color": "rgb(0,166,152)"
+                      },
+                      "totalWithTaxes": "$1,639.32"
+                    }
+                  },
+                  "rateFeatures": [
+                    {
+                      "key": "confirmationType",
+                      "value": "1440",
+                      "title": "Final confirmation within 24 hours",
+                      "baselineDelta": "warning",
+                      "icon": "time",
+                      "color": "rgb(255,148,0)",
+                      "descriptions": [
+                        {
+                          "text": "You can cancel this booking for free at any time before it is confirmed. If your booking can’t be confirmed, you’ll receive a full refund."
+                        }
+                      ]
+                    },
+                    {
+                      "key": "bedType",
+                      "value": "1_QUEEN",
+                      "title": "1x queen bed ",
+                      "baselineDelta": "neutral",
+                      "icon": "hotels",
+                      "color": "rgb(17,18,54)"
+                    },
+                    {
+                      "key": "maxOccupancy",
+                      "value": "1",
+                      "title": "Up to 1 guest",
+                      "baselineDelta": "neutral",
+                      "icon": "adult",
+                      "color": "rgb(17,18,54)"
+                    },
+                    {
+                      "key": "mealPlan",
+                      "value": "room_only",
+                      "title": "Meals not included",
+                      "baselineDelta": "neutral",
+                      "icon": "long-arrow-right",
+                      "color": "rgb(17,18,54)",
+                      "descriptions": null
+                    },
+                    {
+                      "key": "paymentPolicy",
+                      "value": "PayOnArrival",
+                      "title": "Pay on arrival",
+                      "baselineDelta": "positive",
+                      "icon": "paid",
+                      "color": "rgb(0,166,152)"
+                    },
+                    {
+                      "key": "cancellationPolicy",
+                      "value": "non_refundable",
+                      "title": "Non-Refundable",
+                      "baselineDelta": "neutral",
+                      "icon": "not-allowed",
+                      "color": "rgb(17,18,54)",
+                      "descriptions": [
+                        {
+                          "text": "If you cancel or don't attend your hotel booking, you'll not be refunded any of your original payment."
+                        }
+                      ]
+                    },
+                    {
+                      "key": "smoking",
+                      "value": "NonSmoking",
+                      "title": "Non-smoking",
+                      "baselineDelta": "neutral",
+                      "icon": "long-arrow-right",
+                      "color": "rgb(17,18,54)"
+                    }
+                  ],
+                  "stickySummary": "Double Room, Option 1, Meals not included, Non-Refundable",
+                  "partner": {
+                    "name": "Trip.com",
+                    "partnerId": "d_ct",
+                    "logo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                    "isOfficial": false
+                  },
+                  "roomName": "Double Room",
+                  "photos": [
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/c55e2f7053d02046787ece6db686f4cc/c55e2f7053d02046787ece6db686f4cc_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    },
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/6796741a414c47e285947e7136625395/6796741a414c47e285947e7136625395_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    },
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/e3a86d3f8e8fafd21942968225468527/e3a86d3f8e8fafd21942968225468527_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    },
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/810d7bbd82e2aa7b092673186d7d4d0e/810d7bbd82e2aa7b092673186d7d4d0e_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    },
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/bd50890d12f561f2de68609e2be73568/bd50890d12f561f2de68609e2be73568_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    },
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/d7604b4725fde481f47c5e6e631737ce/d7604b4725fde481f47c5e6e631737ce_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    }
+                  ],
+                  "cugDeal": null,
+                  "couponDeal": null,
+                  "commendatoryFlag": "option_pay_on_arrival",
+                  "offerType": "dbook",
+                  "unconfirmedErrorMessage": "If you don't receive an email from Trip.com within an hour, please contact them directly to confirm the exact status of your booking.",
+                  "roomId": "450211251",
+                  "baseRoomId": "450211251",
+                  "bookingData": "eyJjb3N0Ijp7ImRpc3BsYXlQcmljZSI6eyJwYXJ0bmVyIjoxNTAzLjk2LCJ0cmF2ZWxsZXIiOjE1MDMuOTZ9LCJ0b3RhbFdpdGhUYXgiOnsicGFydG5lciI6MTYwOS4yMiwidHJhdmVsbGVyIjoxNjA5LjIyfX0sInRheEFuZEZlZUluY2x1c2lvblBvbGljeSI6IkYiLCJyZXFKcWRDbG9zZWRVc2VyR3JvdXAiOltdLCJtdWx0aVBlcnNvbkFkdWx0cyI6MH0=",
+                  "benefits": null,
+                  "priceIncludes": null,
+                  "bedsString": "1x queen bed ",
+                  "extraBed": null,
+                  "creditCardText": null,
+                  "paymentCode": "lS0YuFSs3ZtWwlYqTCuVhYBqjZXeGZd2uHRakJcvvlF6DpISzBXsASOHMaGCDcL5",
+                  "trackingId": "100020771-20240625005906-527b03dceca749438508552166080fce",
+                  "score": 2
+                },
+                {
+                  "acceptedCards": [
+                    {
+                      "code": "visa",
+                      "name": "Visa"
+                    },
+                    {
+                      "code": "master-card",
+                      "name": "Mastercard"
+                    },
+                    {
+                      "code": "american-express",
+                      "name": "American Express"
+                    },
+                    {
+                      "code": "jcb",
+                      "name": "JCB"
+                    },
+                    {
+                      "code": "unionpay",
+                      "name": "UnionPay"
+                    },
+                    {
+                      "code": "diners-club",
+                      "name": "Diners Club"
+                    },
+                    {
+                      "code": "discover",
+                      "name": "Discover"
+                    }
+                  ],
+                  "cancellationPolicy": "If you cancel or don't attend your hotel booking, you'll not be refunded any of your original payment.",
+                  "guaranteePolicy": {
+                    "depositAmount": "$1,664.22",
+                    "description": "A deposit for your entire stay is due when you book."
+                  },
+                  "freeMessageForRefundable": null,
+                  "href": {
+                    "paymentType": "PayOnArrival",
+                    "partnerCurrency": "USD",
+                    "roomRef": "450211251",
+                    "rateRef": "718383_338426649_0_0_0_0_FG",
+                    "checkout": "2024-07-15",
+                    "instantConfirmation": false,
+                    "version": 2,
+                    "partnerRef": "d_ct",
+                    "adults": 1,
+                    "partnerPrice": 1664.22,
+                    "checkin": "2024-07-01",
+                    "rooms": 1
+                  },
+                  "hrefHash": "2b5ebb2411a73d916fdf963a746fbd6f217ca718f64b245672c2f9a3e9265cea87a293d4f417d4a0ee2c823138c89b439fd208d3212b220b39026b0efea36bc0",
+                  "rateName": "Option 2",
+                  "price": {
+                    "rawTotal": 1555,
+                    "total": "$1,555",
+                    "totalWithTaxes": "$1,724.28",
+                    "rawTotalWithTaxes": 1724.28,
+                    "baseTotal": "$1,555.34",
+                    "rawBaseTotal": 1555.34,
+                    "perNight": "$111",
+                    "rawPerNight": 111.07142857142857,
+                    "perNightBreakdown": "($111.07 per night)",
+                    "surcharges": {
+                      "title": "Taxes & Fees",
+                      "rawTotalTaxes": 168.94,
+                      "totalTaxes": "$168.94",
+                      "content": [
+                        {
+                          "name": "Value Added Tax",
+                          "amount": "$108.88"
+                        },
+                        {
+                          "name": "City Tax",
+                          "amount": "$60.06"
+                        }
+                      ]
+                    },
+                    "daily": null,
+                    "paymentScheduleBreakdown": {
+                      "payNow": null,
+                      "payOnArrival": {
+                        "text": "$1,724.28(1.606,94 €)",
+                        "info": {
+                          "text": "The price shown in {strong}USD{/strong} is for reference only and it may change. Payment at check-in must be in {strong}EUR{/strong}. {strong}Reference exchange rate: $1.00 = 0,93 €{/strong}"
+                        },
+                        "baselineDelta": "positive",
+                        "color": "rgb(0,166,152)"
+                      },
+                      "totalWithTaxes": "$1,724.28"
+                    }
+                  },
+                  "rateFeatures": [
+                    {
+                      "key": "confirmationType",
+                      "value": "1440",
+                      "title": "Final confirmation within 24 hours",
+                      "baselineDelta": "warning",
+                      "icon": "time",
+                      "color": "rgb(255,148,0)",
+                      "descriptions": [
+                        {
+                          "text": "You can cancel this booking for free at any time before it is confirmed. If your booking can’t be confirmed, you’ll receive a full refund."
+                        }
+                      ]
+                    },
+                    {
+                      "key": "bedType",
+                      "value": "1_QUEEN",
+                      "title": "1x queen bed ",
+                      "baselineDelta": "neutral",
+                      "icon": "hotels",
+                      "color": "rgb(17,18,54)"
+                    },
+                    {
+                      "key": "maxOccupancy",
+                      "value": "2",
+                      "title": "Up to 2 guests",
+                      "baselineDelta": "neutral",
+                      "icon": "adult",
+                      "color": "rgb(17,18,54)"
+                    },
+                    {
+                      "key": "mealPlan",
+                      "value": "room_only",
+                      "title": "Meals not included",
+                      "baselineDelta": "neutral",
+                      "icon": "long-arrow-right",
+                      "color": "rgb(17,18,54)",
+                      "descriptions": null
+                    },
+                    {
+                      "key": "paymentPolicy",
+                      "value": "PayOnArrival",
+                      "title": "Pay on arrival",
+                      "baselineDelta": "positive",
+                      "icon": "paid",
+                      "color": "rgb(0,166,152)"
+                    },
+                    {
+                      "key": "cancellationPolicy",
+                      "value": "non_refundable",
+                      "title": "Non-Refundable",
+                      "baselineDelta": "neutral",
+                      "icon": "not-allowed",
+                      "color": "rgb(17,18,54)",
+                      "descriptions": [
+                        {
+                          "text": "If you cancel or don't attend your hotel booking, you'll not be refunded any of your original payment."
+                        }
+                      ]
+                    },
+                    {
+                      "key": "smoking",
+                      "value": "NonSmoking",
+                      "title": "Non-smoking",
+                      "baselineDelta": "neutral",
+                      "icon": "long-arrow-right",
+                      "color": "rgb(17,18,54)"
+                    }
+                  ],
+                  "stickySummary": "Double Room, Option 2, Meals not included, Non-Refundable",
+                  "partner": {
+                    "name": "Trip.com",
+                    "partnerId": "d_ct",
+                    "logo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                    "isOfficial": false
+                  },
+                  "roomName": "Double Room",
+                  "photos": [
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/c55e2f7053d02046787ece6db686f4cc/c55e2f7053d02046787ece6db686f4cc_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    },
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/6796741a414c47e285947e7136625395/6796741a414c47e285947e7136625395_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    },
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/e3a86d3f8e8fafd21942968225468527/e3a86d3f8e8fafd21942968225468527_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    },
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/810d7bbd82e2aa7b092673186d7d4d0e/810d7bbd82e2aa7b092673186d7d4d0e_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    },
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/bd50890d12f561f2de68609e2be73568/bd50890d12f561f2de68609e2be73568_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    },
+                    {
+                      "url": "https://content.skyscnr.com/moat/images/d7604b4725fde481f47c5e6e631737ce/d7604b4725fde481f47c5e6e631737ce_WxH.jpg",
+                      "partnerName": "Trip.com",
+                      "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "partnerId": "d_ct",
+                      "fromPartner": "From Trip.com"
+                    }
+                  ],
+                  "cugDeal": null,
+                  "couponDeal": null,
+                  "commendatoryFlag": "option_pay_on_arrival",
+                  "offerType": "dbook",
+                  "unconfirmedErrorMessage": "If you don't receive an email from Trip.com within an hour, please contact them directly to confirm the exact status of your booking.",
+                  "roomId": "450211251",
+                  "baseRoomId": "450211251",
+                  "bookingData": "eyJjb3N0Ijp7ImRpc3BsYXlQcmljZSI6eyJwYXJ0bmVyIjoxNTU1LjM0LCJ0cmF2ZWxsZXIiOjE1NTUuMzR9LCJ0b3RhbFdpdGhUYXgiOnsicGFydG5lciI6MTY2NC4yMiwidHJhdmVsbGVyIjoxNjY0LjIyfX0sInRheEFuZEZlZUluY2x1c2lvblBvbGljeSI6IkYiLCJyZXFKcWRDbG9zZWRVc2VyR3JvdXAiOltdLCJtdWx0aVBlcnNvbkFkdWx0cyI6MH0=",
+                  "benefits": null,
+                  "priceIncludes": null,
+                  "bedsString": "1x queen bed ",
+                  "extraBed": null,
+                  "creditCardText": null,
+                  "paymentCode": "lS0YuFSs3ZtWwlYqTCuVhWchLrp4TkDjeTk7P9KIDlpSG38SAzYl5le0Xrgt3XM1",
+                  "trackingId": "100020771-20240625005906-527b03dceca749438508552166080fce",
+                  "score": 1
+                }
+              ],
+              "cheapestPrice": 1504,
+              "commendatoryValues": [
+                "Pay on arrival"
+              ],
+              "commendatoryFlag": "option_pay_on_arrival"
+            }
+          ],
+          "rateGroupsCheapestPrice": 1504
+        }
+      ],
+      "cheapestPrice": {
+        "price": "$27",
+        "totalWithTaxes": "$444",
+        "funnelType": "meta",
+        "partnerId": "h_ad",
+        "rateAttributes": [],
+        "score": 5,
+        "rawPrice": 27,
+        "rawLowestPrice": 27
+      },
+      "exclusiveDeal": null,
+      "mostPopularRates": [
+        {
+          "partnerName": "Booking.com",
+          "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_bc.png",
+          "partnerId": "h_bc",
+          "roomType": "Shared room",
+          "roomPolicies": "Meals not included, Non-Refundable",
+          "deeplink": "www.skyscanner.com/hotel_deeplink/4.0/US/en-US/USD/h_bc/47075616/2024-07-01/2024-07-15/hotel/hotel/hotels?guests=1&rooms=1&legacy_provider_id=13&request_id=69f892f7-4c58-44a0-89ba-b17287112fbb&pre_redirect_id=20fdc249-02b9-42a7-8990-d65fc5ee8dda&q_datetime_utc=2024-06-24T16%3A59%3A07&redirect_delay=1000&appName=goAndroidMobile&appVersion=7.132&tm_city_code=FRAN&tm_country_code=DE&tm_place_name=Frankfurt&tm_stars=3&ticket_price=428.0&deeplink_data=eyJmaWVsZHMiOiB7InNpZ25hdHVyZSI6ICI5NmNlODI0NjBlOTEwYzc5NGI2YWEwYTI1NDA3ZmY4YSIsICJibG9ja19pZCI6ICI3MzM5NDE3XzI2Mjg3NTcyMl8wXzJfMCJ9fQ%3D%3D&max_price=1514.0",
+          "rawPrice": 31,
+          "rawPriceGbp": 24,
+          "price": "$31",
+          "rateBriefFeatures": [
+            "Meals not included",
+            "Non-Refundable",
+            "Shared room"
+          ],
+          "isOfficial": false,
+          "isShowHotelName": false,
+          "score": 4,
+          "funnelType": "meta"
+        },
+        {
+          "partnerName": "Edreams",
+          "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ei.png",
+          "partnerId": "h_ei",
+          "roomType": "Shared room",
+          "roomPolicies": "Meals not included, Non-Refundable",
+          "deeplink": "www.skyscanner.com/hotel_deeplink/4.0/US/en-US/USD/h_ei/47075616/2024-07-01/2024-07-15/hotel/hotel/hotels?guests=1&rooms=1&legacy_provider_id=927018&request_id=69f892f7-4c58-44a0-89ba-b17287112fbb&pre_redirect_id=20fdc249-02b9-42a7-8990-d65fc5ee8dda&q_datetime_utc=2024-06-24T16%3A59%3A07&redirect_delay=1000&appName=goAndroidMobile&appVersion=7.132&tm_city_code=FRAN&tm_country_code=DE&tm_place_name=Frankfurt&tm_stars=3&ticket_price=428.0&deeplink_data=eyJmaWVsZHMiOiB7InNpZ25hdHVyZSI6ICI5NmNlODI0NjBlOTEwYzc5NGI2YWEwYTI1NDA3ZmY4YSIsICJibG9ja19pZCI6ICI3MzM5NDE3XzI2Mjg3NTcyMl8wXzJfMCJ9fQ%3D%3D&max_price=1514.0",
+          "rawPrice": 31,
+          "rawPriceGbp": 24,
+          "price": "$31",
+          "rateBriefFeatures": [
+            "Meals not included",
+            "Non-Refundable",
+            "Shared room"
+          ],
+          "isOfficial": false,
+          "isShowHotelName": false,
+          "score": 3,
+          "funnelType": "meta"
+        },
+        {
+          "partnerName": "Trip.com",
+          "funnelType": "dbook",
+          "partnerId": "d_ct",
+          "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+          "isOfficial": false,
+          "roomType": {
+            "name": "Double Room",
+            "sizeString": "13 m²",
+            "amenities": [
+              {
+                "key": "WifiService",
+                "icon": "wifi",
+                "value": "WiFi"
+              },
+              {
+                "key": "Shower",
+                "icon": "onsen",
+                "value": "Shower"
+              },
+              {
+                "key": "AirConditioning",
+                "icon": "aircon",
+                "value": "Air conditioning"
+              },
+              {
+                "key": "Heating",
+                "value": "Heat"
+              },
+              {
+                "key": "HairDryer",
+                "value": "Hairdryer"
+              },
+              {
+                "key": "IroningService",
+                "value": "Iron"
+              },
+              {
+                "key": "Fan",
+                "value": "Fan"
+              }
+            ],
+            "size": {
+              "min": 13,
+              "max": 13,
+              "unit": "m2"
+            },
+            "baseRoomBedsString": [
+              "1x queen bed "
+            ],
+            "id": "450211251",
+            "photos": [
+              {
+                "partner": "d_ct",
+                "room_id": "450211251",
+                "url": "https://content.skyscnr.com/moat/images/c55e2f7053d02046787ece6db686f4cc/c55e2f7053d02046787ece6db686f4cc_WxH.jpg",
+                "partner_name": null,
+                "fromPartner": "From Trip.com"
+              },
+              {
+                "partner": "d_ct",
+                "room_id": "450211251",
+                "url": "https://content.skyscnr.com/moat/images/6796741a414c47e285947e7136625395/6796741a414c47e285947e7136625395_WxH.jpg",
+                "partner_name": null,
+                "fromPartner": "From Trip.com"
+              },
+              {
+                "partner": "d_ct",
+                "room_id": "450211251",
+                "url": "https://content.skyscnr.com/moat/images/e3a86d3f8e8fafd21942968225468527/e3a86d3f8e8fafd21942968225468527_WxH.jpg",
+                "partner_name": null,
+                "fromPartner": "From Trip.com"
+              },
+              {
+                "partner": "d_ct",
+                "room_id": "450211251",
+                "url": "https://content.skyscnr.com/moat/images/810d7bbd82e2aa7b092673186d7d4d0e/810d7bbd82e2aa7b092673186d7d4d0e_WxH.jpg",
+                "partner_name": null,
+                "fromPartner": "From Trip.com"
+              },
+              {
+                "partner": "d_ct",
+                "room_id": "450211251",
+                "url": "https://content.skyscnr.com/moat/images/bd50890d12f561f2de68609e2be73568/bd50890d12f561f2de68609e2be73568_WxH.jpg",
+                "partner_name": null,
+                "fromPartner": "From Trip.com"
+              },
+              {
+                "partner": "d_ct",
+                "room_id": "450211251",
+                "url": "https://content.skyscnr.com/moat/images/d7604b4725fde481f47c5e6e631737ce/d7604b4725fde481f47c5e6e631737ce_WxH.jpg",
+                "partner_name": null,
+                "fromPartner": "From Trip.com"
+              }
+            ],
+            "floors": null,
+            "rateGroups": [
+              {
+                "photos": [
+                  {
+                    "url": "https://content.skyscnr.com/moat/images/c55e2f7053d02046787ece6db686f4cc/c55e2f7053d02046787ece6db686f4cc_WxH.jpg",
+                    "partnerName": "Trip.com",
+                    "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                    "partnerId": "d_ct",
+                    "fromPartner": "From Trip.com"
+                  },
+                  {
+                    "url": "https://content.skyscnr.com/moat/images/6796741a414c47e285947e7136625395/6796741a414c47e285947e7136625395_WxH.jpg",
+                    "partnerName": "Trip.com",
+                    "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                    "partnerId": "d_ct",
+                    "fromPartner": "From Trip.com"
+                  },
+                  {
+                    "url": "https://content.skyscnr.com/moat/images/e3a86d3f8e8fafd21942968225468527/e3a86d3f8e8fafd21942968225468527_WxH.jpg",
+                    "partnerName": "Trip.com",
+                    "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                    "partnerId": "d_ct",
+                    "fromPartner": "From Trip.com"
+                  },
+                  {
+                    "url": "https://content.skyscnr.com/moat/images/810d7bbd82e2aa7b092673186d7d4d0e/810d7bbd82e2aa7b092673186d7d4d0e_WxH.jpg",
+                    "partnerName": "Trip.com",
+                    "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                    "partnerId": "d_ct",
+                    "fromPartner": "From Trip.com"
+                  },
+                  {
+                    "url": "https://content.skyscnr.com/moat/images/bd50890d12f561f2de68609e2be73568/bd50890d12f561f2de68609e2be73568_WxH.jpg",
+                    "partnerName": "Trip.com",
+                    "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                    "partnerId": "d_ct",
+                    "fromPartner": "From Trip.com"
+                  },
+                  {
+                    "url": "https://content.skyscnr.com/moat/images/d7604b4725fde481f47c5e6e631737ce/d7604b4725fde481f47c5e6e631737ce_WxH.jpg",
+                    "partnerName": "Trip.com",
+                    "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                    "partnerId": "d_ct",
+                    "fromPartner": "From Trip.com"
+                  }
+                ],
+                "rates": [
+                  {
+                    "acceptedCards": [
+                      {
+                        "code": "visa",
+                        "name": "Visa"
+                      },
+                      {
+                        "code": "master-card",
+                        "name": "Mastercard"
+                      },
+                      {
+                        "code": "american-express",
+                        "name": "American Express"
+                      },
+                      {
+                        "code": "jcb",
+                        "name": "JCB"
+                      },
+                      {
+                        "code": "unionpay",
+                        "name": "UnionPay"
+                      },
+                      {
+                        "code": "diners-club",
+                        "name": "Diners Club"
+                      },
+                      {
+                        "code": "discover",
+                        "name": "Discover"
+                      }
+                    ],
+                    "cancellationPolicy": "If you cancel or don't attend your hotel booking, you'll not be refunded any of your original payment.",
+                    "guaranteePolicy": {
+                      "depositAmount": "$1,609.22",
+                      "description": "A deposit for your entire stay is due when you book."
+                    },
+                    "freeMessageForRefundable": null,
+                    "href": {
+                      "paymentType": "PayOnArrival",
+                      "partnerCurrency": "USD",
+                      "roomRef": "450211251",
+                      "rateRef": "718383_1045768125_0_0_0_0_FG",
+                      "checkout": "2024-07-15",
+                      "instantConfirmation": false,
+                      "version": 2,
+                      "partnerRef": "d_ct",
+                      "adults": 1,
+                      "partnerPrice": 1609.22,
+                      "checkin": "2024-07-01",
+                      "rooms": 1
+                    },
+                    "hrefHash": "7c0ee298632363b8a1ae7279981758ed4b218bf66c92d4d8164b7160f97d1b05e1119e1f5f88e30a5c09abf3201836786180c876b3f7c01f8df82444a5d34e8c",
+                    "rateName": "Option 1",
+                    "price": {
+                      "rawTotal": 1504,
+                      "total": "$1,504",
+                      "totalWithTaxes": "$1,639.32",
+                      "rawTotalWithTaxes": 1639.32,
+                      "baseTotal": "$1,503.96",
+                      "rawBaseTotal": 1503.96,
+                      "perNight": "$107",
+                      "rawPerNight": 107.42857142857143,
+                      "perNightBreakdown": "($107.43 per night)",
+                      "surcharges": {
+                        "title": "Taxes & Fees",
+                        "rawTotalTaxes": 135.36,
+                        "totalTaxes": "$135.36",
+                        "content": [
+                          {
+                            "name": "Value Added Tax",
+                            "amount": "$105.26"
+                          },
+                          {
+                            "name": "City Tax",
+                            "amount": "$30.10"
+                          }
+                        ]
+                      },
+                      "daily": null,
+                      "paymentScheduleBreakdown": {
+                        "payNow": null,
+                        "payOnArrival": {
+                          "text": "$1,639.32(1.527,76 €)",
+                          "info": {
+                            "text": "The price shown in {strong}USD{/strong} is for reference only and it may change. Payment at check-in must be in {strong}EUR{/strong}. {strong}Reference exchange rate: $1.00 = 0,93 €{/strong}"
+                          },
+                          "baselineDelta": "positive",
+                          "color": "rgb(0,166,152)"
+                        },
+                        "totalWithTaxes": "$1,639.32"
+                      }
+                    },
+                    "rateFeatures": [
+                      {
+                        "key": "confirmationType",
+                        "value": "1440",
+                        "title": "Final confirmation within 24 hours",
+                        "baselineDelta": "warning",
+                        "icon": "time",
+                        "color": "rgb(255,148,0)",
+                        "descriptions": [
+                          {
+                            "text": "You can cancel this booking for free at any time before it is confirmed. If your booking can’t be confirmed, you’ll receive a full refund."
+                          }
+                        ]
+                      },
+                      {
+                        "key": "bedType",
+                        "value": "1_QUEEN",
+                        "title": "1x queen bed ",
+                        "baselineDelta": "neutral",
+                        "icon": "hotels",
+                        "color": "rgb(17,18,54)"
+                      },
+                      {
+                        "key": "maxOccupancy",
+                        "value": "1",
+                        "title": "Up to 1 guest",
+                        "baselineDelta": "neutral",
+                        "icon": "adult",
+                        "color": "rgb(17,18,54)"
+                      },
+                      {
+                        "key": "mealPlan",
+                        "value": "room_only",
+                        "title": "Meals not included",
+                        "baselineDelta": "neutral",
+                        "icon": "long-arrow-right",
+                        "color": "rgb(17,18,54)",
+                        "descriptions": null
+                      },
+                      {
+                        "key": "paymentPolicy",
+                        "value": "PayOnArrival",
+                        "title": "Pay on arrival",
+                        "baselineDelta": "positive",
+                        "icon": "paid",
+                        "color": "rgb(0,166,152)"
+                      },
+                      {
+                        "key": "cancellationPolicy",
+                        "value": "non_refundable",
+                        "title": "Non-Refundable",
+                        "baselineDelta": "neutral",
+                        "icon": "not-allowed",
+                        "color": "rgb(17,18,54)",
+                        "descriptions": [
+                          {
+                            "text": "If you cancel or don't attend your hotel booking, you'll not be refunded any of your original payment."
+                          }
+                        ]
+                      },
+                      {
+                        "key": "smoking",
+                        "value": "NonSmoking",
+                        "title": "Non-smoking",
+                        "baselineDelta": "neutral",
+                        "icon": "long-arrow-right",
+                        "color": "rgb(17,18,54)"
+                      }
+                    ],
+                    "stickySummary": "Double Room, Option 1, Meals not included, Non-Refundable",
+                    "partner": {
+                      "name": "Trip.com",
+                      "partnerId": "d_ct",
+                      "logo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "isOfficial": false
+                    },
+                    "roomName": "Double Room",
+                    "photos": [
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/c55e2f7053d02046787ece6db686f4cc/c55e2f7053d02046787ece6db686f4cc_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      },
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/6796741a414c47e285947e7136625395/6796741a414c47e285947e7136625395_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      },
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/e3a86d3f8e8fafd21942968225468527/e3a86d3f8e8fafd21942968225468527_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      },
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/810d7bbd82e2aa7b092673186d7d4d0e/810d7bbd82e2aa7b092673186d7d4d0e_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      },
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/bd50890d12f561f2de68609e2be73568/bd50890d12f561f2de68609e2be73568_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      },
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/d7604b4725fde481f47c5e6e631737ce/d7604b4725fde481f47c5e6e631737ce_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      }
+                    ],
+                    "cugDeal": null,
+                    "couponDeal": null,
+                    "commendatoryFlag": "option_pay_on_arrival",
+                    "offerType": "dbook",
+                    "unconfirmedErrorMessage": "If you don't receive an email from Trip.com within an hour, please contact them directly to confirm the exact status of your booking.",
+                    "roomId": "450211251",
+                    "baseRoomId": "450211251",
+                    "bookingData": "eyJjb3N0Ijp7ImRpc3BsYXlQcmljZSI6eyJwYXJ0bmVyIjoxNTAzLjk2LCJ0cmF2ZWxsZXIiOjE1MDMuOTZ9LCJ0b3RhbFdpdGhUYXgiOnsicGFydG5lciI6MTYwOS4yMiwidHJhdmVsbGVyIjoxNjA5LjIyfX0sInRheEFuZEZlZUluY2x1c2lvblBvbGljeSI6IkYiLCJyZXFKcWRDbG9zZWRVc2VyR3JvdXAiOltdLCJtdWx0aVBlcnNvbkFkdWx0cyI6MH0=",
+                    "benefits": null,
+                    "priceIncludes": null,
+                    "bedsString": "1x queen bed ",
+                    "extraBed": null,
+                    "creditCardText": null,
+                    "paymentCode": "lS0YuFSs3ZtWwlYqTCuVhYBqjZXeGZd2uHRakJcvvlF6DpISzBXsASOHMaGCDcL5",
+                    "trackingId": "100020771-20240625005906-527b03dceca749438508552166080fce",
+                    "score": 2
+                  },
+                  {
+                    "acceptedCards": [
+                      {
+                        "code": "visa",
+                        "name": "Visa"
+                      },
+                      {
+                        "code": "master-card",
+                        "name": "Mastercard"
+                      },
+                      {
+                        "code": "american-express",
+                        "name": "American Express"
+                      },
+                      {
+                        "code": "jcb",
+                        "name": "JCB"
+                      },
+                      {
+                        "code": "unionpay",
+                        "name": "UnionPay"
+                      },
+                      {
+                        "code": "diners-club",
+                        "name": "Diners Club"
+                      },
+                      {
+                        "code": "discover",
+                        "name": "Discover"
+                      }
+                    ],
+                    "cancellationPolicy": "If you cancel or don't attend your hotel booking, you'll not be refunded any of your original payment.",
+                    "guaranteePolicy": {
+                      "depositAmount": "$1,664.22",
+                      "description": "A deposit for your entire stay is due when you book."
+                    },
+                    "freeMessageForRefundable": null,
+                    "href": {
+                      "paymentType": "PayOnArrival",
+                      "partnerCurrency": "USD",
+                      "roomRef": "450211251",
+                      "rateRef": "718383_338426649_0_0_0_0_FG",
+                      "checkout": "2024-07-15",
+                      "instantConfirmation": false,
+                      "version": 2,
+                      "partnerRef": "d_ct",
+                      "adults": 1,
+                      "partnerPrice": 1664.22,
+                      "checkin": "2024-07-01",
+                      "rooms": 1
+                    },
+                    "hrefHash": "2b5ebb2411a73d916fdf963a746fbd6f217ca718f64b245672c2f9a3e9265cea87a293d4f417d4a0ee2c823138c89b439fd208d3212b220b39026b0efea36bc0",
+                    "rateName": "Option 2",
+                    "price": {
+                      "rawTotal": 1555,
+                      "total": "$1,555",
+                      "totalWithTaxes": "$1,724.28",
+                      "rawTotalWithTaxes": 1724.28,
+                      "baseTotal": "$1,555.34",
+                      "rawBaseTotal": 1555.34,
+                      "perNight": "$111",
+                      "rawPerNight": 111.07142857142857,
+                      "perNightBreakdown": "($111.07 per night)",
+                      "surcharges": {
+                        "title": "Taxes & Fees",
+                        "rawTotalTaxes": 168.94,
+                        "totalTaxes": "$168.94",
+                        "content": [
+                          {
+                            "name": "Value Added Tax",
+                            "amount": "$108.88"
+                          },
+                          {
+                            "name": "City Tax",
+                            "amount": "$60.06"
+                          }
+                        ]
+                      },
+                      "daily": null,
+                      "paymentScheduleBreakdown": {
+                        "payNow": null,
+                        "payOnArrival": {
+                          "text": "$1,724.28(1.606,94 €)",
+                          "info": {
+                            "text": "The price shown in {strong}USD{/strong} is for reference only and it may change. Payment at check-in must be in {strong}EUR{/strong}. {strong}Reference exchange rate: $1.00 = 0,93 €{/strong}"
+                          },
+                          "baselineDelta": "positive",
+                          "color": "rgb(0,166,152)"
+                        },
+                        "totalWithTaxes": "$1,724.28"
+                      }
+                    },
+                    "rateFeatures": [
+                      {
+                        "key": "confirmationType",
+                        "value": "1440",
+                        "title": "Final confirmation within 24 hours",
+                        "baselineDelta": "warning",
+                        "icon": "time",
+                        "color": "rgb(255,148,0)",
+                        "descriptions": [
+                          {
+                            "text": "You can cancel this booking for free at any time before it is confirmed. If your booking can’t be confirmed, you’ll receive a full refund."
+                          }
+                        ]
+                      },
+                      {
+                        "key": "bedType",
+                        "value": "1_QUEEN",
+                        "title": "1x queen bed ",
+                        "baselineDelta": "neutral",
+                        "icon": "hotels",
+                        "color": "rgb(17,18,54)"
+                      },
+                      {
+                        "key": "maxOccupancy",
+                        "value": "2",
+                        "title": "Up to 2 guests",
+                        "baselineDelta": "neutral",
+                        "icon": "adult",
+                        "color": "rgb(17,18,54)"
+                      },
+                      {
+                        "key": "mealPlan",
+                        "value": "room_only",
+                        "title": "Meals not included",
+                        "baselineDelta": "neutral",
+                        "icon": "long-arrow-right",
+                        "color": "rgb(17,18,54)",
+                        "descriptions": null
+                      },
+                      {
+                        "key": "paymentPolicy",
+                        "value": "PayOnArrival",
+                        "title": "Pay on arrival",
+                        "baselineDelta": "positive",
+                        "icon": "paid",
+                        "color": "rgb(0,166,152)"
+                      },
+                      {
+                        "key": "cancellationPolicy",
+                        "value": "non_refundable",
+                        "title": "Non-Refundable",
+                        "baselineDelta": "neutral",
+                        "icon": "not-allowed",
+                        "color": "rgb(17,18,54)",
+                        "descriptions": [
+                          {
+                            "text": "If you cancel or don't attend your hotel booking, you'll not be refunded any of your original payment."
+                          }
+                        ]
+                      },
+                      {
+                        "key": "smoking",
+                        "value": "NonSmoking",
+                        "title": "Non-smoking",
+                        "baselineDelta": "neutral",
+                        "icon": "long-arrow-right",
+                        "color": "rgb(17,18,54)"
+                      }
+                    ],
+                    "stickySummary": "Double Room, Option 2, Meals not included, Non-Refundable",
+                    "partner": {
+                      "name": "Trip.com",
+                      "partnerId": "d_ct",
+                      "logo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                      "isOfficial": false
+                    },
+                    "roomName": "Double Room",
+                    "photos": [
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/c55e2f7053d02046787ece6db686f4cc/c55e2f7053d02046787ece6db686f4cc_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      },
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/6796741a414c47e285947e7136625395/6796741a414c47e285947e7136625395_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      },
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/e3a86d3f8e8fafd21942968225468527/e3a86d3f8e8fafd21942968225468527_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      },
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/810d7bbd82e2aa7b092673186d7d4d0e/810d7bbd82e2aa7b092673186d7d4d0e_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      },
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/bd50890d12f561f2de68609e2be73568/bd50890d12f561f2de68609e2be73568_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      },
+                      {
+                        "url": "https://content.skyscnr.com/moat/images/d7604b4725fde481f47c5e6e631737ce/d7604b4725fde481f47c5e6e631737ce_WxH.jpg",
+                        "partnerName": "Trip.com",
+                        "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+                        "partnerId": "d_ct",
+                        "fromPartner": "From Trip.com"
+                      }
+                    ],
+                    "cugDeal": null,
+                    "couponDeal": null,
+                    "commendatoryFlag": "option_pay_on_arrival",
+                    "offerType": "dbook",
+                    "unconfirmedErrorMessage": "If you don't receive an email from Trip.com within an hour, please contact them directly to confirm the exact status of your booking.",
+                    "roomId": "450211251",
+                    "baseRoomId": "450211251",
+                    "bookingData": "eyJjb3N0Ijp7ImRpc3BsYXlQcmljZSI6eyJwYXJ0bmVyIjoxNTU1LjM0LCJ0cmF2ZWxsZXIiOjE1NTUuMzR9LCJ0b3RhbFdpdGhUYXgiOnsicGFydG5lciI6MTY2NC4yMiwidHJhdmVsbGVyIjoxNjY0LjIyfX0sInRheEFuZEZlZUluY2x1c2lvblBvbGljeSI6IkYiLCJyZXFKcWRDbG9zZWRVc2VyR3JvdXAiOltdLCJtdWx0aVBlcnNvbkFkdWx0cyI6MH0=",
+                    "benefits": null,
+                    "priceIncludes": null,
+                    "bedsString": "1x queen bed ",
+                    "extraBed": null,
+                    "creditCardText": null,
+                    "paymentCode": "lS0YuFSs3ZtWwlYqTCuVhWchLrp4TkDjeTk7P9KIDlpSG38SAzYl5le0Xrgt3XM1",
+                    "trackingId": "100020771-20240625005906-527b03dceca749438508552166080fce",
+                    "score": 1
+                  }
+                ],
+                "cheapestPrice": 1504,
+                "commendatoryValues": [
+                  "Pay on arrival"
+                ],
+                "commendatoryFlag": "option_pay_on_arrival"
+              }
+            ],
+            "rateGroupsCheapestPrice": 1504
+          },
+          "rawPrice": 107,
+          "price": "$107",
+          "score": 2
+        }
+      ],
+      "isShowMostPopularSeeAll": false,
+      "policyInfo": "Taxes and fees not included.",
+      "otaRates": [
+        {
+          "partnerName": "Agoda",
+          "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ad.png",
+          "partnerId": "h_ad",
+          "roomType": "Single room",
+          "roomPolicies": "Room Only, Non-Refundable",
+          "deeplink": "www.skyscanner.com/hotel_deeplink/4.0/US/en-US/USD/h_ad/47075616/2024-07-01/2024-07-15/hotel/hotel/hotels?guests=1&rooms=1&legacy_provider_id=22&request_id=69f892f7-4c58-44a0-89ba-b17287112fbb&pre_redirect_id=20fdc249-02b9-42a7-8990-d65fc5ee8dda&q_datetime_utc=2024-06-24T16%3A59%3A07&redirect_delay=1000&appName=goAndroidMobile&appVersion=7.132&tm_city_code=FRAN&tm_country_code=DE&tm_place_name=Frankfurt&tm_stars=3&ticket_price=384.0&deeplink_data=eyJmaWVsZHMiOiB7InNpZ25hdHVyZSI6ICI2Njg0YWMzMTk0YmEzNDM2M2EyY2U2YzNlYWEzMjgwMyJ9LCAidXJsIjogImh0dHBzOi8vd3d3LmFnb2RhLmNvbS9wYXJ0bmVycy9wYXJ0bmVyc2VhcmNoLmFzcHg%2FY2lkPTE4NDYzMzcmaGlkPTMyODM5MzQmY3VycmVuY3k9VVNEJmNoZWNraW49MjAyNC0wNy0wMSZjaGVja291dD0yMDI0LTA3LTE1Jk51bWJlcm9mQWR1bHRzPTEmTnVtYmVyb2ZDaGlsZHJlbj0wJlJvb21zPTEmbWNpZD0zMDM4Jm1hc3RlclJvb21JZD00OTcxMjY4In0%3D&max_price=1514.0",
+          "rawPrice": 27,
+          "rawPriceGbp": 22,
+          "price": "$27",
+          "rateBriefFeatures": [
+            "Room Only",
+            "Non-Refundable",
+            "Single room"
+          ],
+          "isOfficial": false,
+          "isShowHotelName": false,
+          "score": 5,
+          "funnelType": "meta"
+        },
+        {
+          "partnerName": "Booking.com",
+          "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_bc.png",
+          "partnerId": "h_bc",
+          "roomType": "Shared room",
+          "roomPolicies": "Meals not included, Non-Refundable",
+          "deeplink": "www.skyscanner.com/hotel_deeplink/4.0/US/en-US/USD/h_bc/47075616/2024-07-01/2024-07-15/hotel/hotel/hotels?guests=1&rooms=1&legacy_provider_id=13&request_id=69f892f7-4c58-44a0-89ba-b17287112fbb&pre_redirect_id=20fdc249-02b9-42a7-8990-d65fc5ee8dda&q_datetime_utc=2024-06-24T16%3A59%3A07&redirect_delay=1000&appName=goAndroidMobile&appVersion=7.132&tm_city_code=FRAN&tm_country_code=DE&tm_place_name=Frankfurt&tm_stars=3&ticket_price=428.0&deeplink_data=eyJmaWVsZHMiOiB7InNpZ25hdHVyZSI6ICI5NmNlODI0NjBlOTEwYzc5NGI2YWEwYTI1NDA3ZmY4YSIsICJibG9ja19pZCI6ICI3MzM5NDE3XzI2Mjg3NTcyMl8wXzJfMCJ9fQ%3D%3D&max_price=1514.0",
+          "rawPrice": 31,
+          "rawPriceGbp": 24,
+          "price": "$31",
+          "rateBriefFeatures": [
+            "Meals not included",
+            "Non-Refundable",
+            "Shared room"
+          ],
+          "isOfficial": false,
+          "isShowHotelName": false,
+          "score": 4,
+          "funnelType": "meta"
+        },
+        {
+          "partnerName": "Edreams",
+          "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/h_ei.png",
+          "partnerId": "h_ei",
+          "roomType": "Shared room",
+          "roomPolicies": "Meals not included, Non-Refundable",
+          "deeplink": "www.skyscanner.com/hotel_deeplink/4.0/US/en-US/USD/h_ei/47075616/2024-07-01/2024-07-15/hotel/hotel/hotels?guests=1&rooms=1&legacy_provider_id=927018&request_id=69f892f7-4c58-44a0-89ba-b17287112fbb&pre_redirect_id=20fdc249-02b9-42a7-8990-d65fc5ee8dda&q_datetime_utc=2024-06-24T16%3A59%3A07&redirect_delay=1000&appName=goAndroidMobile&appVersion=7.132&tm_city_code=FRAN&tm_country_code=DE&tm_place_name=Frankfurt&tm_stars=3&ticket_price=428.0&deeplink_data=eyJmaWVsZHMiOiB7InNpZ25hdHVyZSI6ICI5NmNlODI0NjBlOTEwYzc5NGI2YWEwYTI1NDA3ZmY4YSIsICJibG9ja19pZCI6ICI3MzM5NDE3XzI2Mjg3NTcyMl8wXzJfMCJ9fQ%3D%3D&max_price=1514.0",
+          "rawPrice": 31,
+          "rawPriceGbp": 24,
+          "price": "$31",
+          "rateBriefFeatures": [
+            "Meals not included",
+            "Non-Refundable",
+            "Shared room"
+          ],
+          "isOfficial": false,
+          "isShowHotelName": false,
+          "score": 3,
+          "funnelType": "meta"
+        },
+        {
+          "partnerName": "Trip.com",
+          "partnerId": "d_ct",
+          "partnerLogo": "https://www.skyscanner.com/images/websites/220x80/d_ct.png",
+          "price": "$107",
+          "perNight": "$107",
+          "rawPrice": 107,
+          "roomType": "Double Room",
+          "href": {
+            "paymentType": "PayOnArrival",
+            "partnerCurrency": "USD",
+            "roomRef": "450211251",
+            "rateRef": "718383_1045768125_0_0_0_0_FG",
+            "checkout": "2024-07-15",
+            "instantConfirmation": false,
+            "version": 2,
+            "partnerRef": "d_ct",
+            "adults": 1,
+            "partnerPrice": 1609.22,
+            "checkin": "2024-07-01",
+            "rooms": 1
+          },
+          "funnelType": "dbook",
+          "score": 2
+        }
+      ],
+      "roomFilters": [
+        {
+          "filterName": "Bed type",
+          "bedTypes": [
+            {
+              "title": "1 x queen bed",
+              "value": "1_QUEEN"
+            }
+          ],
+          "key": "bedType",
+          "selected": false,
+          "type": "MULTIPLE_SELECTION"
+        },
+        {
+          "filterName": "Pay on arrival",
+          "key": "paymentPolicy",
+          "selected": false,
+          "type": "DIRECT_SELECTION"
+        }
+      ],
+      "localCurrency": "EUR",
+      "searchId": "14b61dfeefa8aaa9b2d15432f659ba9984f947b4afb348ae1bcc9ad5f85ccd9d",
+      "requestId": "69f892f7-4c58-44a0-89ba-b17287112fbb",
+      "correlationId": null
+    },
+    "status": true,
+    "message": "Successful"
+  }
+}
